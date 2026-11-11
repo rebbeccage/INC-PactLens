@@ -1,0 +1,2 @@
+importScripts('model.js','clauses.js','layout.js','topics.js?v=three-kinds-1','source-numbering.js','source-pages.js','research.js?v=three-kinds-1');
+self.onmessage=({data})=>{try{const result=PactResearch.compare(data.left,data.right,data.options);self.postMessage({ticket:data.ticket,key:data.key,result});}catch(error){self.postMessage({ticket:data.ticket,key:data.key,error:String(error.message)});}};

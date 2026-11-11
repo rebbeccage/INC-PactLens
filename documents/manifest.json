@@ -1,0 +1,4812 @@
+[
+  {
+    "id": "src-inc1-glossary-9e995c6dcaad",
+    "name": "INC1 术语表Glossary_Key_Terms_E.pdf",
+    "shortTitle": "关键术语表",
+    "title": "Glossary of key terms",
+    "meetingId": "inc-1",
+    "relatedMeetingIds": [],
+    "publishedDate": "2022-09-08",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.1/6",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": null,
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "a578c270b25414637ff407c57fa945100e3eaf01eb286500e6a3a0cd12f9af32",
+    "sourceSha256": "3804bf36b9c7162d01182eaa12a9edc409475492414b0dffb52b5c517bcfe45a",
+    "originalUrl": "documents/inc1-glossary.pdf",
+    "previewUrl": "assets/previews/inc1-glossary.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 4,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页载明 First session、Punta del Este，28 November–2 December 2022。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC1 术语表Glossary_Key_Terms_E.pdf",
+      "documentSymbol": "UNEP/PP/INC.1/6"
+    },
+    "outline": [
+      {
+        "start": 3341,
+        "end": 3346,
+        "title": "Annex",
+        "level": 1
+      },
+      {
+        "start": 3349,
+        "end": 3370,
+        "title": "Glossary of key terms",
+        "level": 2
+      },
+      {
+        "start": 3373,
+        "end": 3501,
+        "title": "I. Terms used in Environment Assembly resolution 5/14 that have definitions adopted or endorsed by an intergovernmental process",
+        "level": 2
+      },
+      {
+        "start": 3503,
+        "end": 3541,
+        "title": "Environmentally sound waste management",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 3769,
+        "end": 3775,
+        "title": "Impact",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 4151,
+        "end": 4164,
+        "title": "Microplastics",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 4266,
+        "end": 4285,
+        "title": "Resource efficiency",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 4520,
+        "end": 4558,
+        "title": "Sustainable production and consumption",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 4520,
+        "end": 4542,
+        "title": "Sustainable production",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 5256,
+        "end": 5275,
+        "title": "Technology transfer",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 5503,
+        "end": 5524,
+        "title": "Traditional knowledge",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 7854,
+        "end": 7883,
+        "title": "Traditional knowledge systems",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 7946,
+        "end": 7947,
+        "title": "p",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 8179,
+        "end": 8184,
+        "title": "Waste",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 8343,
+        "end": 8361,
+        "title": "Waste minimization",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 8447,
+        "end": 8647,
+        "title": "II. Terms used in Environment Assembly resolution 5/14 that do not have definitions adopted or endorsed by an intergovernmental process but that may be relevant to the development of the instrument",
+        "level": 2
+      },
+      {
+        "start": 8700,
+        "end": 8891,
+        "title": "III. Terms not used in Environment Assembly resolution 5/14 that may be related to those used in the resolution and that have definitions adopted or endorsed by an intergovernmental process",
+        "level": 2
+      },
+      {
+        "start": 8893,
+        "end": 8921,
+        "title": "Best environmental practices",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 9557,
+        "end": 9565,
+        "title": "Extended",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 10359,
+        "end": 10369,
+        "title": "Life cycle",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 11936,
+        "end": 11957,
+        "title": "Life cycle assessment",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 12098,
+        "end": 12108,
+        "title": "Management",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 12247,
+        "end": 12267,
+        "title": "Mechanical recycling",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 12420,
+        "end": 12427,
+        "title": "Plastic",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 12764,
+        "end": 12773,
+        "title": "Pollutant",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 12955,
+        "end": 12990,
+        "title": "Pollution of the marine environment",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 13424,
+        "end": 13426,
+        "title": "Re",
+        "level": 3,
+        "inline": true
+      },
+      {
+        "start": 13494,
+        "end": 13503,
+        "title": "Recycling",
+        "level": 3,
+        "inline": true
+      }
+    ],
+    "sourceOriginalSha256": "9e995c6dcaad79699e01d192d9bc27e618f64d637c5352484fd36ea5f11a2543",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc2-options-29acf51978ea",
+    "name": "INC.2 英文案文.pdf",
+    "shortTitle": "潜在要素选项",
+    "title": "Potential options for elements towards an international legally binding instrument",
+    "meetingId": "inc-2",
+    "relatedMeetingIds": [],
+    "publishedDate": "2023-04-13",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.2/4",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": null,
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "f5939632a2a8b5d1d61df76fee2aac5f6cda29bdad3267045500d313d66cc83b",
+    "sourceSha256": "846a63b6b92b850b98d4d6316501c174be1a905ff3675e3d35dcb9e49bc1ad80",
+    "originalUrl": "documents/inc2-options.pdf",
+    "previewUrl": "assets/previews/inc2-options.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 37,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页载明 Second session、Paris，29 May–2 June 2023。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC.2 英文案文.pdf",
+      "documentSymbol": "UNEP/PP/INC.2/4"
+    },
+    "outline": [
+      {
+        "start": 8041,
+        "end": 8089,
+        "title": "I. Introductory note prepared by the secretariat",
+        "level": 2
+      },
+      {
+        "start": 11852,
+        "end": 12170,
+        "title": "7. The present document includes boxed comment paragraphs with background information. Such paragraphs are meant to help readers navigate the document and are not intended for negotiation. Headings and subheadings have been included to provide a structure for the document and are also not intended for negotiation.",
+        "level": 3
+      },
+      {
+        "start": 13565,
+        "end": 13805,
+        "title": "II. Potential options for elements towards an international legally binding instrument, based on a comprehensive approach that addresses the full life cycle of plastics as called for by United Nations Environment Assembly resolution 5/14",
+        "level": 2
+      },
+      {
+        "start": 13808,
+        "end": 13824,
+        "title": "A. Objective(s)",
+        "level": 2
+      },
+      {
+        "start": 15012,
+        "end": 15103,
+        "title": "B. Core obligations, control measures and voluntary approaches (including annexes, if any)",
+        "level": 2
+      },
+      {
+        "start": 16698,
+        "end": 16817,
+        "title": "1. Possible core obligation: phasing out and/or reducing the supply of, demand for and use of primary plastic polymers",
+        "level": 3
+      },
+      {
+        "start": 18354,
+        "end": 18474,
+        "title": "2. Possible core obligation: banning, phasing out and/or reducing the use of problematic and avoidable plastic products",
+        "level": 3
+      },
+      {
+        "start": 20357,
+        "end": 20496,
+        "title": "3. Possible core obligation: banning, phasing out and/or reducing the production, consumption and use of chemicals and polymers of concern",
+        "level": 3
+      },
+      {
+        "start": 22778,
+        "end": 22829,
+        "title": "4. Possible core obligation: reducing microplastics",
+        "level": 3
+      },
+      {
+        "start": 25028,
+        "end": 25087,
+        "title": "5. Possible core obligation: strengthening waste management",
+        "level": 3
+      },
+      {
+        "start": 29917,
+        "end": 29978,
+        "title": "6. Possible core obligation: fostering design for circularity",
+        "level": 3
+      },
+      {
+        "start": 31750,
+        "end": 31850,
+        "title": "7. Possible core obligation: encouraging reduce, reuse and repair of plastic products and packaging",
+        "level": 3
+      },
+      {
+        "start": 33410,
+        "end": 33506,
+        "title": "8. Possible core obligation: promoting the use of safe, sustainable alternatives and substitutes",
+        "level": 3
+      },
+      {
+        "start": 35369,
+        "end": 35469,
+        "title": "9. Possible core obligation: eliminating the release and emission of plastics to water, soil and air",
+        "level": 3
+      },
+      {
+        "start": 38516,
+        "end": 38583,
+        "title": "10. Possible core obligation: addressing existing plastic pollution",
+        "level": 3
+      },
+      {
+        "start": 40853,
+        "end": 40978,
+        "title": "11. Possible core obligation: facilitating a just transition, including an inclusive transition of the informal waste sector",
+        "level": 3
+      },
+      {
+        "start": 42716,
+        "end": 42815,
+        "title": "12. Possible core obligation: protecting human health from the adverse effects of plastic pollution",
+        "level": 3
+      },
+      {
+        "start": 44552,
+        "end": 44578,
+        "title": "C. Means of implementation",
+        "level": 2
+      },
+      {
+        "start": 46211,
+        "end": 46234,
+        "title": "1. Financial assistance",
+        "level": 3
+      },
+      {
+        "start": 52312,
+        "end": 52332,
+        "title": "2. Capacity-building",
+        "level": 3
+      },
+      {
+        "start": 54981,
+        "end": 55004,
+        "title": "3. Technical assistance",
+        "level": 3
+      },
+      {
+        "start": 56515,
+        "end": 56562,
+        "title": "4. Technology transfer on mutually agreed terms",
+        "level": 3
+      },
+      {
+        "start": 59421,
+        "end": 59447,
+        "title": "D. Implementation measures",
+        "level": 2
+      },
+      {
+        "start": 59729,
+        "end": 59753,
+        "title": "1. National action plans",
+        "level": 3
+      },
+      {
+        "start": 63065,
+        "end": 63086,
+        "title": "2. National reporting",
+        "level": 3
+      },
+      {
+        "start": 66397,
+        "end": 66410,
+        "title": "3. Compliance",
+        "level": 3
+      },
+      {
+        "start": 70365,
+        "end": 70484,
+        "title": "4. Periodic assessment and monitoring of the progress of implementation of the instrument and effectiveness evaluation",
+        "level": 3
+      },
+      {
+        "start": 74142,
+        "end": 74163,
+        "title": "E. Additional matters",
+        "level": 2
+      },
+      {
+        "start": 74923,
+        "end": 74957,
+        "title": "1. Awareness-raising and education",
+        "level": 3
+      },
+      {
+        "start": 77054,
+        "end": 77080,
+        "title": "2. Exchange of information",
+        "level": 3
+      },
+      {
+        "start": 79502,
+        "end": 79513,
+        "title": "3. Research",
+        "level": 3
+      },
+      {
+        "start": 83223,
+        "end": 83254,
+        "title": "4. Cooperation and coordination",
+        "level": 3
+      },
+      {
+        "start": 85468,
+        "end": 85493,
+        "title": "5. Stakeholder engagement",
+        "level": 3
+      },
+      {
+        "start": 87283,
+        "end": 87331,
+        "title": "F. List of potential annexes to the instrument",
+        "level": 2
+      },
+      {
+        "start": 88663,
+        "end": 88673,
+        "title": "Appendix I",
+        "level": 1
+      },
+      {
+        "start": 88675,
+        "end": 88769,
+        "title": "Additional potential options for elements not explicitly mentioned in the submission template",
+        "level": 2
+      },
+      {
+        "start": 88773,
+        "end": 88797,
+        "title": "I. Introductory elements",
+        "level": 2
+      },
+      {
+        "start": 88801,
+        "end": 88812,
+        "title": "A. Preamble",
+        "level": 2
+      },
+      {
+        "start": 91350,
+        "end": 91364,
+        "title": "B. Definitions",
+        "level": 2
+      },
+      {
+        "start": 93213,
+        "end": 93221,
+        "title": "C. Scope",
+        "level": 2
+      },
+      {
+        "start": 95410,
+        "end": 95424,
+        "title": "D. Principles",
+        "level": 2
+      },
+      {
+        "start": 97316,
+        "end": 97346,
+        "title": "II. Institutional arrangements",
+        "level": 2
+      },
+      {
+        "start": 97350,
+        "end": 97367,
+        "title": "A. Governing body",
+        "level": 2
+      },
+      {
+        "start": 98862,
+        "end": 98882,
+        "title": "B. Subsidiary bodies",
+        "level": 2
+      },
+      {
+        "start": 101060,
+        "end": 101116,
+        "title": "C. Scientific and technical cooperation and coordination",
+        "level": 2
+      },
+      {
+        "start": 103952,
+        "end": 103966,
+        "title": "D. Secretariat",
+        "level": 2
+      },
+      {
+        "start": 106034,
+        "end": 106045,
+        "title": "Appendix II",
+        "level": 1
+      },
+      {
+        "start": 106047,
+        "end": 106057,
+        "title": "Background",
+        "level": 2
+      },
+      {
+        "start": 121500,
+        "end": 121512,
+        "title": "Appendix III",
+        "level": 1
+      },
+      {
+        "start": 121514,
+        "end": 121588,
+        "title": "Paragraphs 3 and 4 of United Nations Environment Assembly resolution 5/14",
+        "level": 2
+      }
+    ],
+    "sourceOriginalSha256": "29acf51978eabbe12085bc078b04fa5706a5fb2b79640e10ec8758a7f48b01d0",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc3-zero-draft-ab6ec694dc3b",
+    "name": "INC3英文零案文_ZERODRAFT.docx",
+    "shortTitle": "零案文",
+    "title": "Zero draft text",
+    "meetingId": "inc-3",
+    "relatedMeetingIds": [],
+    "publishedDate": "2023-09-04",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.3/4",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": null,
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "8efcef579aa772813de68c7320e273527902de3f5003dd055d42352f55d100e0",
+    "sourceSha256": "73bd77aa43de67a32f34bd99266d0ba6893830001b2305a820d6000bfd4fdcf5",
+    "originalUrl": "documents/inc3-zero-draft.docx",
+    "previewUrl": "assets/previews/inc3-zero-draft.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 31,
+    "fileType": "DOCX",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页载明 Third session、Nairobi，13–19 November 2023。",
+    "extractionNote": "DOCX 正文及表格按文档顺序提取；脚注和尾注保留引用标记并附于正文后。不保留版式，批注及删除的修订文字不作为最终正文。页数按文档渲染结果统计。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC3英文零案文_ZERODRAFT.docx",
+      "documentSymbol": "UNEP/PP/INC.3/4"
+    },
+    "outline": [
+      {
+        "start": 12210,
+        "end": 12216,
+        "title": "Part I",
+        "level": 1
+      },
+      {
+        "start": 12218,
+        "end": 12240,
+        "title": "Preamble (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 12243,
+        "end": 12252,
+        "title": "Objective",
+        "level": 2
+      },
+      {
+        "start": 13053,
+        "end": 13090,
+        "title": "Definitions (placeholder)[Footnote 4]",
+        "level": 2
+      },
+      {
+        "start": 13093,
+        "end": 13117,
+        "title": "Principles (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 13119,
+        "end": 13138,
+        "title": "Scope (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 13140,
+        "end": 13147,
+        "title": "Part II",
+        "level": 1
+      },
+      {
+        "start": 13149,
+        "end": 13173,
+        "title": "Primary plastic polymers",
+        "level": 2
+      },
+      {
+        "start": 15407,
+        "end": 15440,
+        "title": "Chemicals and polymers of concern",
+        "level": 2
+      },
+      {
+        "start": 20112,
+        "end": 20260,
+        "title": "Problematic and avoidable plastic products,[Footnote 15] including short-lived and single-use plastic products and intentionally added microplastics",
+        "level": 2
+      },
+      {
+        "start": 20262,
+        "end": 20359,
+        "title": "Problematic and avoidable plastic products, including short-lived and single-use plastic products",
+        "level": 3
+      },
+      {
+        "start": 21679,
+        "end": 21712,
+        "title": "Intentionally added microplastics",
+        "level": 3
+      },
+      {
+        "start": 22510,
+        "end": 22554,
+        "title": "Exemptions available to a Party upon request",
+        "level": 2
+      },
+      {
+        "start": 23676,
+        "end": 23719,
+        "title": "Product design, composition and performance",
+        "level": 2
+      },
+      {
+        "start": 23722,
+        "end": 23752,
+        "title": "Product design and performance",
+        "level": 3
+      },
+      {
+        "start": 27059,
+        "end": 27124,
+        "title": "Reduce, reuse, refill and repair of plastics and plastic products",
+        "level": 3
+      },
+      {
+        "start": 28519,
+        "end": 28551,
+        "title": "Use of recycled plastic contents",
+        "level": 3
+      },
+      {
+        "start": 29858,
+        "end": 29927,
+        "title": "Alternative plastics and plastic products [Footnote 32],[Footnote 33]",
+        "level": 3
+      },
+      {
+        "start": 30714,
+        "end": 30737,
+        "title": "Non-plastic substitutes",
+        "level": 2
+      },
+      {
+        "start": 31321,
+        "end": 31353,
+        "title": "Extended producer responsibility",
+        "level": 2
+      },
+      {
+        "start": 32754,
+        "end": 32813,
+        "title": "Emissions and releases of plastic throughout its life cycle",
+        "level": 2
+      },
+      {
+        "start": 34743,
+        "end": 34772,
+        "title": "Waste management[Footnote 42]",
+        "level": 2
+      },
+      {
+        "start": 34774,
+        "end": 34790,
+        "title": "Waste management",
+        "level": 3
+      },
+      {
+        "start": 37888,
+        "end": 37913,
+        "title": "Fishing gear[Footnote 46]",
+        "level": 3
+      },
+      {
+        "start": 38579,
+        "end": 38649,
+        "title": "Trade in listed chemicals, polymers and products, and in plastic waste",
+        "level": 2
+      },
+      {
+        "start": 38652,
+        "end": 38713,
+        "title": "Trade in listed chemicals, polymers and products[Footnote 49]",
+        "level": 3
+      },
+      {
+        "start": 41709,
+        "end": 41748,
+        "title": "Transboundary movement of plastic waste",
+        "level": 3
+      },
+      {
+        "start": 43915,
+        "end": 43978,
+        "title": "Existing plastic pollution, including in the marine environment",
+        "level": 2
+      },
+      {
+        "start": 45689,
+        "end": 45704,
+        "title": "Just transition",
+        "level": 2
+      },
+      {
+        "start": 47620,
+        "end": 47681,
+        "title": "Transparency, tracking, monitoring and labelling[Footnote 69]",
+        "level": 2
+      },
+      {
+        "start": 48959,
+        "end": 48967,
+        "title": "Part III",
+        "level": 1
+      },
+      {
+        "start": 48969,
+        "end": 48978,
+        "title": "Financing",
+        "level": 2
+      },
+      {
+        "start": 52323,
+        "end": 52386,
+        "title": "Capacity-building, technical assistance and technology transfer",
+        "level": 2
+      },
+      {
+        "start": 53679,
+        "end": 53686,
+        "title": "Part IV",
+        "level": 1
+      },
+      {
+        "start": 53688,
+        "end": 53702,
+        "title": "National plans",
+        "level": 2
+      },
+      {
+        "start": 55570,
+        "end": 55599,
+        "title": "Implementation and compliance",
+        "level": 2
+      },
+      {
+        "start": 57868,
+        "end": 57889,
+        "title": "Reporting on progress",
+        "level": 2
+      },
+      {
+        "start": 60477,
+        "end": 60593,
+        "title": "Periodic assessment and monitoring of the progress of implementation of the instrument* and effectiveness evaluation",
+        "level": 2
+      },
+      {
+        "start": 60595,
+        "end": 60619,
+        "title": "Effectiveness evaluation",
+        "level": 3
+      },
+      {
+        "start": 62342,
+        "end": 62439,
+        "title": "Review of chemicals and polymers of concern, microplastics and problematic and avoidable products",
+        "level": 3
+      },
+      {
+        "start": 63572,
+        "end": 63597,
+        "title": "International cooperation",
+        "level": 2
+      },
+      {
+        "start": 66150,
+        "end": 66170,
+        "title": "Information exchange",
+        "level": 2
+      },
+      {
+        "start": 67447,
+        "end": 67488,
+        "title": "Awareness-raising, education and research",
+        "level": 2
+      },
+      {
+        "start": 69107,
+        "end": 69129,
+        "title": "Stakeholder engagement",
+        "level": 2
+      },
+      {
+        "start": 70480,
+        "end": 70529,
+        "title": "Part V [Institutional arrangements (placeholder)]",
+        "level": 1
+      },
+      {
+        "start": 70531,
+        "end": 70559,
+        "title": "Governing body (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 70561,
+        "end": 70592,
+        "title": "Subsidiary bodies (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 70595,
+        "end": 70620,
+        "title": "Secretariat (placeholder)",
+        "level": 2
+      },
+      {
+        "start": 70622,
+        "end": 70662,
+        "title": "Part VI [Final provisions (placeholder)]",
+        "level": 1
+      },
+      {
+        "start": 70664,
+        "end": 70721,
+        "title": "Appendix: Possible annexes to the instrument[Footnote 97]",
+        "level": 1
+      },
+      {
+        "start": 70724,
+        "end": 70795,
+        "title": "Annex A Primary plastic polymers, and chemicals and polymers of concern",
+        "level": 1
+      },
+      {
+        "start": 71601,
+        "end": 71744,
+        "title": "Annex B Problematic and avoidable plastic products, including short-lived and single-use plastic products and intentionally added microplastics",
+        "level": 1
+      },
+      {
+        "start": 72418,
+        "end": 72469,
+        "title": "Annex C Product design, composition and performance",
+        "level": 1
+      },
+      {
+        "start": 73568,
+        "end": 73664,
+        "title": "Annex D Modalities for the establishment and operation of EPR systems based on common principles",
+        "level": 1
+      },
+      {
+        "start": 73701,
+        "end": 73765,
+        "title": "Annex E Emissions and releases of plastic through its life cycle",
+        "level": 1
+      },
+      {
+        "start": 73915,
+        "end": 73939,
+        "title": "Annex F Waste management",
+        "level": 1
+      },
+      {
+        "start": 74421,
+        "end": 74454,
+        "title": "Annex G Format for national plans",
+        "level": 1
+      }
+    ],
+    "sourceOriginalSha256": "ab6ec694dc3b64e3741374a29b205505384625690fd8f8cd8fb8a8fe26ba5217",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc4-revised-zero-700596364b1e",
+    "name": "INC4_RevisedZeroDraftText.pdf",
+    "shortTitle": "修订零案文",
+    "title": "Revised draft text",
+    "meetingId": "inc-4",
+    "relatedMeetingIds": [],
+    "publishedDate": "2023-12-28",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.4/3",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": "inc4-revised-zero",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "1ec732c6ecbc66afb1c83e26b196ebd41180339d71cf1521c7164e6b66b8303a",
+    "sourceSha256": "918c8a114d3a11c6575abbf4586b43e96a000f76d0acaf800a814bf610561eac",
+    "originalUrl": "documents/inc4-revised-zero.pdf",
+    "previewUrl": "assets/previews/inc4-revised-zero.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 69,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页载明 Fourth session、Ottawa，23–29 April 2024。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC4_RevisedZeroDraftText.pdf",
+      "documentSymbol": "UNEP/PP/INC.4/3"
+    },
+    "outline": [
+      {
+        "start": 15200,
+        "end": 15206,
+        "title": "Part I",
+        "level": 1
+      },
+      {
+        "start": 15209,
+        "end": 15221,
+        "title": "1. Preamble",
+        "level": 2
+      },
+      {
+        "start": 21684,
+        "end": 21696,
+        "title": "2. Objective",
+        "level": 2
+      },
+      {
+        "start": 23283,
+        "end": 23298,
+        "title": "3. Definitions",
+        "level": 2
+      },
+      {
+        "start": 23455,
+        "end": 23469,
+        "title": "4. Principles",
+        "level": 2
+      },
+      {
+        "start": 26880,
+        "end": 26889,
+        "title": "5. Scope",
+        "level": 2
+      },
+      {
+        "start": 37280,
+        "end": 37287,
+        "title": "Part II",
+        "level": 1
+      },
+      {
+        "start": 37290,
+        "end": 37317,
+        "title": "1. Primary plastic polymers",
+        "level": 2
+      },
+      {
+        "start": 37320,
+        "end": 37347,
+        "title": "Alt title: Plastic polymers",
+        "level": 2
+      },
+      {
+        "start": 42275,
+        "end": 42311,
+        "title": "2. Chemicals and polymers of concern",
+        "level": 2
+      },
+      {
+        "start": 42313,
+        "end": 42354,
+        "title": "Alt title: Hazardous chemicals of concern",
+        "level": 2
+      },
+      {
+        "start": 54270,
+        "end": 54410,
+        "title": "3. Problematic and avoidable plastic products, including short-lived and single-use plastic products and intentionally added microplastics",
+        "level": 2
+      },
+      {
+        "start": 54412,
+        "end": 54629,
+        "title": "Alt title: Problematic plastic products and avoidable plastic products and groups of such products, [including short-lived and single-use plastic products] and [products containing] intentionally added microplastics",
+        "level": 2
+      },
+      {
+        "start": 54632,
+        "end": 54787,
+        "title": "a. Problematic [plastic products]** and avoidable plastic products [and groups of such products]**, including short-lived and single-use plastic products",
+        "level": 2
+      },
+      {
+        "start": 59433,
+        "end": 59491,
+        "title": "b. [Products containing] Intentionally added microplastics",
+        "level": 2
+      },
+      {
+        "start": 62919,
+        "end": 62948,
+        "title": "3bis. Micro- and nanoplastics",
+        "level": 2
+      },
+      {
+        "start": 62996,
+        "end": 63043,
+        "title": "4. Exemptions available to a Party upon request",
+        "level": 2
+      },
+      {
+        "start": 66363,
+        "end": 66397,
+        "title": "4bis. Dedicated programmes of work",
+        "level": 2
+      },
+      {
+        "start": 67683,
+        "end": 67729,
+        "title": "5. Product design, composition and performance",
+        "level": 2
+      },
+      {
+        "start": 67732,
+        "end": 67769,
+        "title": "a. [Product [design and] performance]",
+        "level": 2
+      },
+      {
+        "start": 76336,
+        "end": 76454,
+        "title": "b. [[Reduce,]** [reuse], [recycling,] refill and repair of plastics and][Circularity approaches for] plastic products",
+        "level": 2
+      },
+      {
+        "start": 81548,
+        "end": 81583,
+        "title": "c. Use of recycled plastic contents",
+        "level": 2
+      },
+      {
+        "start": 85756,
+        "end": 85800,
+        "title": "d. Alternative plastics and plastic products",
+        "level": 2
+      },
+      {
+        "start": 90101,
+        "end": 90127,
+        "title": "6. Non-plastic substitutes",
+        "level": 2
+      },
+      {
+        "start": 95391,
+        "end": 95426,
+        "title": "7. Extended producer responsibility",
+        "level": 2
+      },
+      {
+        "start": 100131,
+        "end": 100193,
+        "title": "8. Emissions and releases of plastic throughout its life cycle",
+        "level": 2
+      },
+      {
+        "start": 100195,
+        "end": 100368,
+        "title": "Alt title: [Emissions and][Leakage and] releases of plastic [products and products waste][waste and microplastics] [throughout [the entire] [its] life cycle [of plastics]]",
+        "level": 2
+      },
+      {
+        "start": 113567,
+        "end": 113586,
+        "title": "9. Waste management",
+        "level": 2
+      },
+      {
+        "start": 113589,
+        "end": 113620,
+        "title": "a. [[Plastic] Waste management]",
+        "level": 2
+      },
+      {
+        "start": 123553,
+        "end": 123570,
+        "title": "b. [Fishing gear]",
+        "level": 2
+      },
+      {
+        "start": 128778,
+        "end": 128875,
+        "title": "10. Trade [in listed chemicals[, polymers] and products, and in plastic waste][related measures]",
+        "level": 2
+      },
+      {
+        "start": 128928,
+        "end": 128979,
+        "title": "a. Trade in listed chemicals, polymers and products",
+        "level": 2
+      },
+      {
+        "start": 133210,
+        "end": 133268,
+        "title": "b. Transboundary movement of [non-hazardous] plastic waste",
+        "level": 2
+      },
+      {
+        "start": 137708,
+        "end": 137775,
+        "title": "11. Existing plastic pollution, including in the marine environment",
+        "level": 2
+      },
+      {
+        "start": 142873,
+        "end": 142892,
+        "title": "12. Just transition",
+        "level": 2
+      },
+      {
+        "start": 149490,
+        "end": 149542,
+        "title": "13. Transparency, tracking, monitoring and labelling",
+        "level": 2
+      },
+      {
+        "start": 155266,
+        "end": 155313,
+        "title": "13bis. Overarching provision related to Part II",
+        "level": 2
+      },
+      {
+        "start": 156299,
+        "end": 156307,
+        "title": "Part III",
+        "level": 1
+      },
+      {
+        "start": 156311,
+        "end": 156351,
+        "title": "1. Financing [mechanism [and resources]]",
+        "level": 2
+      },
+      {
+        "start": 156353,
+        "end": 156401,
+        "title": "Alt Title: Financial resources [(and mechanism)]",
+        "level": 2
+      },
+      {
+        "start": 181134,
+        "end": 181200,
+        "title": "2. Capacity-building, technical assistance and technology transfer",
+        "level": 2
+      },
+      {
+        "start": 181202,
+        "end": 181347,
+        "title": "Alt title: Capacity-building, technical and scientific cooperation, technology transfer Alt title 2: Capacity-building and technical assistance",
+        "level": 2
+      },
+      {
+        "start": 185578,
+        "end": 185604,
+        "title": "[3.] Technology [transfer]",
+        "level": 2
+      },
+      {
+        "start": 190455,
+        "end": 190462,
+        "title": "Part IV",
+        "level": 1
+      },
+      {
+        "start": 190466,
+        "end": 190507,
+        "title": "1. National [Action][Implementation]Plans",
+        "level": 2
+      },
+      {
+        "start": 200213,
+        "end": 200245,
+        "title": "2. Implementation and compliance",
+        "level": 2
+      },
+      {
+        "start": 208204,
+        "end": 208248,
+        "title": "3. Reporting on progress [of implementation]",
+        "level": 2
+      },
+      {
+        "start": 214991,
+        "end": 215113,
+        "title": "4. Periodic assessment and monitoring of the progress of implementation of the instrument* [and effectiveness evaluation]",
+        "level": 2
+      },
+      {
+        "start": 215116,
+        "end": 215145,
+        "title": "a. [Assessment and monitoring",
+        "level": 2
+      },
+      {
+        "start": 216359,
+        "end": 216424,
+        "title": "b.] Effectiveness [Effectiveness evaluation][Progress assessment]",
+        "level": 2
+      },
+      {
+        "start": 220253,
+        "end": 220405,
+        "title": "[b][c.] Review of [hazardous] chemicals [and polymers] of concern, microplastics and problematic and avoidable products[, and non-plastic substitutes]",
+        "level": 2
+      },
+      {
+        "start": 222158,
+        "end": 222186,
+        "title": "5. International cooperation",
+        "level": 2
+      },
+      {
+        "start": 227553,
+        "end": 227576,
+        "title": "6. Information exchange",
+        "level": 2
+      },
+      {
+        "start": 227579,
+        "end": 227602,
+        "title": "Alt title: Transparency",
+        "level": 2
+      },
+      {
+        "start": 231722,
+        "end": 231784,
+        "title": "7. Awareness-raising, education and research [and development]",
+        "level": 2
+      },
+      {
+        "start": 238470,
+        "end": 238509,
+        "title": "8. [Partner and] Stakeholder engagement",
+        "level": 2
+      },
+      {
+        "start": 241260,
+        "end": 241280,
+        "title": "8bis. Health aspects",
+        "level": 2
+      },
+      {
+        "start": 242957,
+        "end": 242963,
+        "title": "Part V",
+        "level": 1
+      },
+      {
+        "start": 242966,
+        "end": 242985,
+        "title": "1. Governing body",
+        "level": 2
+      },
+      {
+        "start": 246501,
+        "end": 246521,
+        "title": "2. Subsidiary bodies",
+        "level": 2
+      },
+      {
+        "start": 247913,
+        "end": 247929,
+        "title": "3. Secretariat",
+        "level": 2
+      },
+      {
+        "start": 250491,
+        "end": 250498,
+        "title": "Part VI",
+        "level": 1
+      },
+      {
+        "start": 250741,
+        "end": 250777,
+        "title": "Possible annexes to the instrument",
+        "level": 2
+      },
+      {
+        "start": 250782,
+        "end": 250854,
+        "title": "Annex A Primary plastic polymers, and chemicals and polymers of concern",
+        "level": 1
+      },
+      {
+        "start": 250856,
+        "end": 250887,
+        "title": "Part I Primary plastic polymers",
+        "level": 1
+      },
+      {
+        "start": 251039,
+        "end": 251080,
+        "title": "Part II Chemicals and polymers of concern",
+        "level": 1
+      },
+      {
+        "start": 251680,
+        "end": 251825,
+        "title": "Annex B Problematic and avoidable plastic products, including short-lived and single-use plastic products and intentionally added microplastics",
+        "level": 1
+      },
+      {
+        "start": 253521,
+        "end": 253572,
+        "title": "Annex C Product design, composition and performance",
+        "level": 1
+      },
+      {
+        "start": 253575,
+        "end": 253613,
+        "title": "Part I Design and performance criteria",
+        "level": 1
+      },
+      {
+        "start": 254084,
+        "end": 254139,
+        "title": "Part II Targets for reduction, reuse, refill and repair",
+        "level": 1
+      },
+      {
+        "start": 254278,
+        "end": 254330,
+        "title": "Part III Use of safe post-consumer recycled plastics",
+        "level": 1
+      },
+      {
+        "start": 254680,
+        "end": 254777,
+        "title": "Annex D Modalities for the establishment and operation of EPR systems based on common principles",
+        "level": 1
+      },
+      {
+        "start": 255441,
+        "end": 255505,
+        "title": "Annex E Emissions and releases of plastic through its life cycle",
+        "level": 1
+      },
+      {
+        "start": 255656,
+        "end": 255680,
+        "title": "Annex F Waste management",
+        "level": 1
+      },
+      {
+        "start": 256168,
+        "end": 256201,
+        "title": "Annex G Format for national plans",
+        "level": 1
+      },
+      {
+        "start": 256295,
+        "end": 256362,
+        "title": "Annex [X] - Effective measures at each stage of plastic lifecycle",
+        "level": 1
+      }
+    ],
+    "sourceOriginalSha256": "700596364b1e970a79f0d74128bd50f8d9faff2ebdf7051dd9f8095f04ef3743",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc5-compilation-80a9a2346f46",
+    "name": "INC5_英文汇编案文Compilation_Text.docx",
+    "shortTitle": "汇编案文",
+    "title": "Compilation of draft text",
+    "meetingId": "inc-5-1",
+    "relatedMeetingIds": [],
+    "publishedDate": "2024-07-09",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.5/4",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": "inc5-compilation",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "ff0e99c0832f9c99ce5e745d15bf05f14435db27043b164756aa8a56c3ed3cc7",
+    "sourceSha256": "f48883aa6906aa33782635236b33fefb39de7c5fa60964b34e2dd5c61cbaa0e8",
+    "originalUrl": "documents/inc5-compilation.docx",
+    "previewUrl": "assets/previews/inc5-compilation.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 73,
+    "fileType": "DOCX",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页载明 Fifth session、Busan，25 November–1 December 2024，对应第五届会议第一部分。",
+    "extractionNote": "DOCX 正文及表格按文档顺序提取；脚注和尾注保留引用标记并附于正文后。不保留版式，批注及删除的修订文字不作为最终正文。页数按文档渲染结果统计。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC5_英文汇编案文Compilation_Text.docx",
+      "documentSymbol": "UNEP/PP/INC.5/4"
+    },
+    "outline": [
+      {
+        "start": 11482,
+        "end": 11488,
+        "title": "Part I",
+        "level": 1
+      },
+      {
+        "start": 11491,
+        "end": 11515,
+        "title": "1. Preamble[Footnote 8]",
+        "level": 2
+      },
+      {
+        "start": 24593,
+        "end": 24605,
+        "title": "2. Objective",
+        "level": 2
+      },
+      {
+        "start": 26218,
+        "end": 26244,
+        "title": "3. Definitions[Footnote 9]",
+        "level": 2
+      },
+      {
+        "start": 26424,
+        "end": 26469,
+        "title": "[4. Principles[Footnote 10] [and approaches]]",
+        "level": 2
+      },
+      {
+        "start": 34865,
+        "end": 34886,
+        "title": "5. Scope[Footnote 11]",
+        "level": 2
+      },
+      {
+        "start": 38456,
+        "end": 38463,
+        "title": "Part II",
+        "level": 1
+      },
+      {
+        "start": 38465,
+        "end": 38511,
+        "title": "1. [[Primary [and secondary] plastic polymers]",
+        "level": 2
+      },
+      {
+        "start": 48390,
+        "end": 48521,
+        "title": "2. [Cooperation and coordination with relevant MEAs on] [[Chemicals [and polymers] of concern [in [plastics and] plastic products]]",
+        "level": 2
+      },
+      {
+        "start": 48523,
+        "end": 48601,
+        "title": "[Alt title: Hazardous chemicals [in plastics and plastic products] of concern]",
+        "level": 2
+      },
+      {
+        "start": 60636,
+        "end": 60980,
+        "title": "3. [[Problematic [plastic products] [and avoidable] [Single-use] plastic products] [[and groups of such products]], [[including] [short-lived] and single-use plastic products] [[and [microplastics on their own and] [products containing] intentionally added] microplastics]][in plastics and plastics products]] (proposed placement: move to II.5)",
+        "level": 2
+      },
+      {
+        "start": 61029,
+        "end": 61190,
+        "title": "a. [[Problematic [plastic products] and avoidable plastic products] [[and groups of such products], [[including] [short-lived] and single-use plastic products]]]",
+        "level": 3
+      },
+      {
+        "start": 68011,
+        "end": 68156,
+        "title": "[3bis Listing a product in Part II of Annex B [Problematic and avoidable plastic products] and Part III of Annex B [Problematic plastic products]",
+        "level": 2
+      },
+      {
+        "start": 69858,
+        "end": 70022,
+        "title": "b. [Products containing] [Microplastics on their own and] Intentionally added microplastics [in plastics and plastic products] (proposed placement: merge 3a and 3b)",
+        "level": 3
+      },
+      {
+        "start": 73325,
+        "end": 73405,
+        "title": "[3 bis alt. Micro- and [nanoplastics]] (proposed placement: move to Provision 8)",
+        "level": 2
+      },
+      {
+        "start": 74930,
+        "end": 74980,
+        "title": "4. [Exemptions available to a Party upon request]",
+        "level": 2
+      },
+      {
+        "start": 77731,
+        "end": 77768,
+        "title": "[4bis. Dedicated programmes of work]",
+        "level": 2
+      },
+      {
+        "start": 80193,
+        "end": 80242,
+        "title": "5. Product design, [composition] and performance",
+        "level": 2
+      },
+      {
+        "start": 80251,
+        "end": 80288,
+        "title": "a. [Product [design and] performance]",
+        "level": 3
+      },
+      {
+        "start": 90456,
+        "end": 90612,
+        "title": "b. [[Reduce,] [reuse], [and] [recycling,] refill and repair [repurposing and refurbishment] of [plastics and]] [Circularity approaches for] plastic products",
+        "level": 3
+      },
+      {
+        "start": 94179,
+        "end": 94214,
+        "title": "c. Use of recycled plastic contents",
+        "level": 3
+      },
+      {
+        "start": 98803,
+        "end": 98849,
+        "title": "d. [Alternative plastics and plastic products]",
+        "level": 3
+      },
+      {
+        "start": 102518,
+        "end": 102544,
+        "title": "6. Non-plastic substitutes",
+        "level": 2
+      },
+      {
+        "start": 105475,
+        "end": 105514,
+        "title": "7. [[Extended] producer responsibility]",
+        "level": 2
+      },
+      {
+        "start": 113008,
+        "end": 113070,
+        "title": "8. Emissions and releases of plastic throughout its life cycle",
+        "level": 2
+      },
+      {
+        "start": 121286,
+        "end": 121305,
+        "title": "9. Waste management",
+        "level": 2
+      },
+      {
+        "start": 121314,
+        "end": 121345,
+        "title": "a. [[Plastic] Waste management]",
+        "level": 3
+      },
+      {
+        "start": 127925,
+        "end": 127942,
+        "title": "XX. Fishing gear",
+        "level": 2
+      },
+      {
+        "start": 136671,
+        "end": 136781,
+        "title": "10. Trade [in listed chemicals[, polymers] and products, and in plastic waste] [related measures][Footnote 15]",
+        "level": 2
+      },
+      {
+        "start": 136840,
+        "end": 136891,
+        "title": "a. Trade in listed chemicals, polymers and products",
+        "level": 3
+      },
+      {
+        "start": 141056,
+        "end": 141114,
+        "title": "b. Transboundary movement of [non-hazardous] plastic waste",
+        "level": 3
+      },
+      {
+        "start": 145485,
+        "end": 145552,
+        "title": "11. Existing plastic pollution, including in the marine environment",
+        "level": 2
+      },
+      {
+        "start": 150500,
+        "end": 150531,
+        "title": "12. Just transition [pathways]",
+        "level": 2
+      },
+      {
+        "start": 157568,
+        "end": 157620,
+        "title": "13. Transparency, tracking, monitoring and labelling",
+        "level": 2
+      },
+      {
+        "start": 163246,
+        "end": 163293,
+        "title": "[13bis Overarching provision related to Part II",
+        "level": 2
+      },
+      {
+        "start": 164207,
+        "end": 164243,
+        "title": "Part III [Footnote 18] [Footnote 19]",
+        "level": 1
+      },
+      {
+        "start": 164252,
+        "end": 164292,
+        "title": "1. Financing [mechanism [and resources]]",
+        "level": 2
+      },
+      {
+        "start": 183356,
+        "end": 183422,
+        "title": "2. Capacity-building, technical assistance and technology transfer",
+        "level": 2
+      },
+      {
+        "start": 183425,
+        "end": 183512,
+        "title": "Alt title: Capacity-building, technical and scientific cooperation, technology transfer",
+        "level": 2
+      },
+      {
+        "start": 183515,
+        "end": 183570,
+        "title": "Alt title 2: Capacity-building and technical assistance",
+        "level": 2
+      },
+      {
+        "start": 187320,
+        "end": 187346,
+        "title": "[3.] Technology [transfer]",
+        "level": 2
+      },
+      {
+        "start": 191113,
+        "end": 191120,
+        "title": "Part IV",
+        "level": 1
+      },
+      {
+        "start": 191131,
+        "end": 191187,
+        "title": "1. National [Action] [Implementation] Plans[Footnote 33]",
+        "level": 2
+      },
+      {
+        "start": 197794,
+        "end": 197864,
+        "title": "2. Implementation [[and][,] compliance] [and cooperation][Footnote 37]",
+        "level": 2
+      },
+      {
+        "start": 204572,
+        "end": 204616,
+        "title": "3. Reporting on progress [of implementation]",
+        "level": 2
+      },
+      {
+        "start": 210163,
+        "end": 210284,
+        "title": "4. Periodic assessment and monitoring of the progress of implementation of the instrument* [and effectiveness evaluation]",
+        "level": 2
+      },
+      {
+        "start": 210293,
+        "end": 210322,
+        "title": "a. [Assessment and monitoring",
+        "level": 3
+      },
+      {
+        "start": 211522,
+        "end": 211588,
+        "title": "b.] Effectiveness [Effectiveness evaluation] [Progress assessment]",
+        "level": 3
+      },
+      {
+        "start": 215214,
+        "end": 215364,
+        "title": "[b][c.] Review of [hazardous] chemicals [and polymers] of concern, microplastics and problematic and avoidable products[, and non-plastic substitutes]",
+        "level": 3
+      },
+      {
+        "start": 216699,
+        "end": 216727,
+        "title": "5. International cooperation",
+        "level": 2
+      },
+      {
+        "start": 220659,
+        "end": 220682,
+        "title": "6. Information exchange",
+        "level": 2
+      },
+      {
+        "start": 223481,
+        "end": 223543,
+        "title": "7. Awareness-raising, education and research [and development]",
+        "level": 2
+      },
+      {
+        "start": 230141,
+        "end": 230180,
+        "title": "8. [Partner and] Stakeholder engagement",
+        "level": 2
+      },
+      {
+        "start": 232465,
+        "end": 232487,
+        "title": "8 bis. Health aspects",
+        "level": 2
+      },
+      {
+        "start": 234104,
+        "end": 234110,
+        "title": "Part V",
+        "level": 1
+      },
+      {
+        "start": 234119,
+        "end": 234149,
+        "title": "1. Governing body[Footnote 60]",
+        "level": 2
+      },
+      {
+        "start": 237040,
+        "end": 237060,
+        "title": "2. Subsidiary bodies",
+        "level": 2
+      },
+      {
+        "start": 238454,
+        "end": 238481,
+        "title": "3. Secretariat[Footnote 62]",
+        "level": 2
+      },
+      {
+        "start": 240227,
+        "end": 240277,
+        "title": "Part VI[Footnote 63] Final provisions[Footnote 64]",
+        "level": 1
+      },
+      {
+        "start": 240286,
+        "end": 240311,
+        "title": "1. Settlement of disputes",
+        "level": 2
+      },
+      {
+        "start": 242727,
+        "end": 242759,
+        "title": "2. Amendments to the instrument*",
+        "level": 2
+      },
+      {
+        "start": 244406,
+        "end": 244442,
+        "title": "3. Adoption and amendment of annexes",
+        "level": 2
+      },
+      {
+        "start": 246915,
+        "end": 246931,
+        "title": "4. Right to vote",
+        "level": 2
+      },
+      {
+        "start": 247406,
+        "end": 247418,
+        "title": "5. Signature",
+        "level": 2
+      },
+      {
+        "start": 247648,
+        "end": 247698,
+        "title": "6. Ratification, acceptance, approval or accession",
+        "level": 2
+      },
+      {
+        "start": 249629,
+        "end": 249648,
+        "title": "7. Entry into force",
+        "level": 2
+      },
+      {
+        "start": 250493,
+        "end": 250508,
+        "title": "8. Reservations",
+        "level": 2
+      },
+      {
+        "start": 250569,
+        "end": 250582,
+        "title": "9. Withdrawal",
+        "level": 2
+      },
+      {
+        "start": 251022,
+        "end": 251036,
+        "title": "10. Depositary",
+        "level": 2
+      },
+      {
+        "start": 251138,
+        "end": 251157,
+        "title": "11. Authentic texts",
+        "level": 2
+      },
+      {
+        "start": 251480,
+        "end": 251527,
+        "title": "Possible annexes to the instrument[Footnote 73]",
+        "level": 1
+      },
+      {
+        "start": 251538,
+        "end": 251590,
+        "title": "1. Indicative list of potential annexes[Footnote 74]",
+        "level": 2
+      },
+      {
+        "start": 251599,
+        "end": 251684,
+        "title": "Annex A Primary plastic polymers, and chemicals and polymers of concern[Footnote 75]",
+        "level": 1
+      },
+      {
+        "start": 252495,
+        "end": 252652,
+        "title": "Annex B Problematic and avoidable plastic products, including short-lived and single-use plastic products and intentionally added microplastics[Footnote 77]",
+        "level": 1
+      },
+      {
+        "start": 253338,
+        "end": 253403,
+        "title": "Annex C Product design, composition and performance[Footnote 79]",
+        "level": 1
+      },
+      {
+        "start": 254497,
+        "end": 254594,
+        "title": "Annex D Modalities for the establishment and operation of EPR systems based on common principles",
+        "level": 1
+      },
+      {
+        "start": 254637,
+        "end": 254702,
+        "title": "Annex E Emissions and releases of plastic through its life cycle",
+        "level": 1
+      },
+      {
+        "start": 254868,
+        "end": 254893,
+        "title": "Annex F Waste management",
+        "level": 1
+      },
+      {
+        "start": 255324,
+        "end": 255358,
+        "title": "Annex G Format for national plans",
+        "level": 1
+      },
+      {
+        "start": 255457,
+        "end": 255534,
+        "title": "Annex [X] Effective measures at each stage of plastic lifecycle[Footnote 84]",
+        "level": 1
+      },
+      {
+        "start": 255538,
+        "end": 255553,
+        "title": "1. Entire stage",
+        "level": 3
+      },
+      {
+        "start": 255810,
+        "end": 255829,
+        "title": "2. Production stage",
+        "level": 3
+      },
+      {
+        "start": 257094,
+        "end": 257132,
+        "title": "3. Distribution/sale/consumption stage",
+        "level": 3
+      },
+      {
+        "start": 257925,
+        "end": 257963,
+        "title": "4. Waste management and disposal stage",
+        "level": 3
+      },
+      {
+        "start": 258715,
+        "end": 258740,
+        "title": "5. Cross-cutting elements",
+        "level": 3
+      },
+      {
+        "start": 259491,
+        "end": 259542,
+        "title": "2. [Proposed annexes relating to element II.2",
+        "level": 2
+      },
+      {
+        "start": 263561,
+        "end": 263621,
+        "title": "3. Proposed annexes relating to elements II.3 and 3bis",
+        "level": 2
+      },
+      {
+        "start": 263624,
+        "end": 263645,
+        "title": "a. [Proposed annex B",
+        "level": 3
+      },
+      {
+        "start": 266023,
+        "end": 266045,
+        "title": "b. [Annex X - Products",
+        "level": 3
+      },
+      {
+        "start": 266914,
+        "end": 266928,
+        "title": "c. [Annexes B]",
+        "level": 3
+      },
+      {
+        "start": 269471,
+        "end": 269513,
+        "title": "4. Proposed annex relating to element II.5",
+        "level": 2
+      }
+    ],
+    "sourceOriginalSha256": "80a9a2346f462484ce62eb438a447698ff3532342bcc5acfd37c3358d5d1e5ce",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc52-chair-90fe15f354f1",
+    "name": "INC5.2 英文主席案文chairs_revised_draft_text_proposal_-_15.08.25_at_00.482.docx",
+    "shortTitle": "主席修订案文",
+    "title": "Chair’s Revised Text Proposal — 15 August 2025 at 00.48",
+    "meetingId": "inc-5-2",
+    "relatedMeetingIds": [],
+    "publishedDate": "2025-08-15",
+    "publishedTime": "00:48",
+    "documentSymbol": null,
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": "inc52-chair",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "1fcab0dc2e0ca5acc21e987731e3c52b3d50d40527894868986ee0ee356aa78f",
+    "sourceSha256": "9f38ad4410dc4e1b11ed4d20f2ae5599245793a67ff6cd45de23feda0756c752",
+    "originalUrl": "documents/inc52-chair.docx",
+    "previewUrl": "assets/previews/inc52-chair.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 14,
+    "fileType": "DOCX",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "文件首页注明 Chair’s Revised Text Proposal，15 August 2025 as at 00.48；对应日内瓦 INC-5.2。",
+    "extractionNote": "DOCX 正文及表格按文档顺序提取；脚注和尾注保留引用标记并附于正文后。不保留版式，批注及删除的修订文字不作为最终正文。页数按文档渲染结果统计。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC5.2 英文主席案文chairs_revised_draft_text_proposal_-_15.08.25_at_00.482.docx",
+      "documentSymbol": null
+    },
+    "outline": [
+      {
+        "start": 4280,
+        "end": 4289,
+        "title": "ARTICLE 1",
+        "level": 3
+      },
+      {
+        "start": 4291,
+        "end": 4300,
+        "title": "OBJECTIVE",
+        "level": 3
+      },
+      {
+        "start": 4533,
+        "end": 4542,
+        "title": "ARTICLE 2",
+        "level": 3
+      },
+      {
+        "start": 4544,
+        "end": 4569,
+        "title": "PRINCIPLES AND APPROACHES",
+        "level": 3
+      },
+      {
+        "start": 6792,
+        "end": 6801,
+        "title": "ARTICLE 3",
+        "level": 3
+      },
+      {
+        "start": 6803,
+        "end": 6814,
+        "title": "DEFINITIONS",
+        "level": 3
+      },
+      {
+        "start": 7404,
+        "end": 7413,
+        "title": "ARTICLE 4",
+        "level": 3
+      },
+      {
+        "start": 7415,
+        "end": 7431,
+        "title": "PLASTIC PRODUCTS",
+        "level": 3
+      },
+      {
+        "start": 11202,
+        "end": 11211,
+        "title": "ARTICLE 5",
+        "level": 3
+      },
+      {
+        "start": 11213,
+        "end": 11235,
+        "title": "PLASTIC PRODUCT DESIGN",
+        "level": 3
+      },
+      {
+        "start": 13141,
+        "end": 13150,
+        "title": "ARTICLE 6",
+        "level": 3
+      },
+      {
+        "start": 13152,
+        "end": 13173,
+        "title": "RELEASES AND LEAKAGES",
+        "level": 3
+      },
+      {
+        "start": 13709,
+        "end": 13718,
+        "title": "ARTICLE 7",
+        "level": 3
+      },
+      {
+        "start": 13720,
+        "end": 13744,
+        "title": "PLASTIC WASTE MANAGEMENT",
+        "level": 3
+      },
+      {
+        "start": 15870,
+        "end": 15879,
+        "title": "ARTICLE 8",
+        "level": 3
+      },
+      {
+        "start": 15881,
+        "end": 15918,
+        "title": "EXISTING AND LEGACY PLASTIC POLLUTION",
+        "level": 3
+      },
+      {
+        "start": 16894,
+        "end": 16903,
+        "title": "ARTICLE 9",
+        "level": 3
+      },
+      {
+        "start": 16905,
+        "end": 16920,
+        "title": "JUST TRANSITION",
+        "level": 3
+      },
+      {
+        "start": 17830,
+        "end": 17840,
+        "title": "ARTICLE 10",
+        "level": 3
+      },
+      {
+        "start": 17842,
+        "end": 17875,
+        "title": "FINANCIAL RESOURCES AND MECHANISM",
+        "level": 3
+      },
+      {
+        "start": 22192,
+        "end": 22202,
+        "title": "ARTICLE 11",
+        "level": 3
+      },
+      {
+        "start": 22204,
+        "end": 22304,
+        "title": "CAPACITY-BUILDING, TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER, INCLUDING INTERNATIONAL COOPERATION",
+        "level": 3
+      },
+      {
+        "start": 24481,
+        "end": 24491,
+        "title": "ARTICLE 12",
+        "level": 3
+      },
+      {
+        "start": 24493,
+        "end": 24522,
+        "title": "IMPLEMENTATION AND COMPLIANCE",
+        "level": 3
+      },
+      {
+        "start": 25659,
+        "end": 25669,
+        "title": "ARTICLE 13",
+        "level": 3
+      },
+      {
+        "start": 25671,
+        "end": 25685,
+        "title": "NATIONAL PLANS",
+        "level": 3
+      },
+      {
+        "start": 27023,
+        "end": 27033,
+        "title": "ARTICLE 14",
+        "level": 3
+      },
+      {
+        "start": 27035,
+        "end": 27044,
+        "title": "REPORTING",
+        "level": 3
+      },
+      {
+        "start": 27889,
+        "end": 27899,
+        "title": "ARTICLE 15",
+        "level": 3
+      },
+      {
+        "start": 27901,
+        "end": 27925,
+        "title": "EFFECTIVENESS EVALUATION",
+        "level": 3
+      },
+      {
+        "start": 29617,
+        "end": 29627,
+        "title": "ARTICLE 16",
+        "level": 3
+      },
+      {
+        "start": 29629,
+        "end": 29649,
+        "title": "INFORMATION EXCHANGE",
+        "level": 3
+      },
+      {
+        "start": 30355,
+        "end": 30365,
+        "title": "ARTICLE 17",
+        "level": 3
+      },
+      {
+        "start": 30367,
+        "end": 30420,
+        "title": "PUBLIC INFORMATION, AWARENESS, EDUCATION AND RESEARCH",
+        "level": 3
+      },
+      {
+        "start": 32193,
+        "end": 32203,
+        "title": "ARTICLE 18",
+        "level": 3
+      },
+      {
+        "start": 32205,
+        "end": 32230,
+        "title": "CONFERENCE OF THE PARTIES",
+        "level": 3
+      },
+      {
+        "start": 35531,
+        "end": 35541,
+        "title": "ARTICLE 19",
+        "level": 3
+      },
+      {
+        "start": 35543,
+        "end": 35560,
+        "title": "SUBSIDIARY BODIES",
+        "level": 3
+      },
+      {
+        "start": 35909,
+        "end": 35919,
+        "title": "ARTICLE 20",
+        "level": 3
+      },
+      {
+        "start": 35921,
+        "end": 35932,
+        "title": "SECRETARIAT",
+        "level": 3
+      },
+      {
+        "start": 37226,
+        "end": 37236,
+        "title": "ARTICLE 21",
+        "level": 3
+      },
+      {
+        "start": 37238,
+        "end": 37260,
+        "title": "SETTLEMENT OF DISPUTES",
+        "level": 3
+      },
+      {
+        "start": 39570,
+        "end": 39580,
+        "title": "ARTICLE 22",
+        "level": 3
+      },
+      {
+        "start": 39582,
+        "end": 39610,
+        "title": "AMENDMENTS TO THE CONVENTION",
+        "level": 3
+      },
+      {
+        "start": 41213,
+        "end": 41223,
+        "title": "ARTICLE 23",
+        "level": 3
+      },
+      {
+        "start": 41225,
+        "end": 41258,
+        "title": "ADOPTION AND AMENDMENT OF ANNEXES",
+        "level": 3
+      },
+      {
+        "start": 43673,
+        "end": 43683,
+        "title": "ARTICLE 24",
+        "level": 3
+      },
+      {
+        "start": 43685,
+        "end": 43698,
+        "title": "RIGHT TO VOTE",
+        "level": 3
+      },
+      {
+        "start": 44225,
+        "end": 44235,
+        "title": "ARTICLE 25",
+        "level": 3
+      },
+      {
+        "start": 44237,
+        "end": 44246,
+        "title": "SIGNATURE",
+        "level": 3
+      },
+      {
+        "start": 44477,
+        "end": 44487,
+        "title": "ARTICLE 26",
+        "level": 3
+      },
+      {
+        "start": 44489,
+        "end": 44536,
+        "title": "RATIFICATION, ACCEPTANCE, APPROVAL OR ACCESSION",
+        "level": 3
+      },
+      {
+        "start": 46218,
+        "end": 46228,
+        "title": "ARTICLE 27",
+        "level": 3
+      },
+      {
+        "start": 46230,
+        "end": 46246,
+        "title": "ENTRY INTO FORCE",
+        "level": 3
+      },
+      {
+        "start": 47143,
+        "end": 47153,
+        "title": "ARTICLE 28",
+        "level": 3
+      },
+      {
+        "start": 47155,
+        "end": 47167,
+        "title": "RESERVATIONS",
+        "level": 3
+      },
+      {
+        "start": 47226,
+        "end": 47236,
+        "title": "ARTICLE 29",
+        "level": 3
+      },
+      {
+        "start": 47238,
+        "end": 47248,
+        "title": "WITHDRAWAL",
+        "level": 3
+      },
+      {
+        "start": 47694,
+        "end": 47704,
+        "title": "ARTICLE 30",
+        "level": 3
+      },
+      {
+        "start": 47706,
+        "end": 47716,
+        "title": "DEPOSITARY",
+        "level": 3
+      },
+      {
+        "start": 47815,
+        "end": 47825,
+        "title": "ARTICLE 31",
+        "level": 3
+      },
+      {
+        "start": 47827,
+        "end": 47842,
+        "title": "AUTHENTIC TEXTS",
+        "level": 3
+      }
+    ],
+    "sourceOriginalSha256": "90fe15f354f1ca44acb3572fc5f45f0e27676b9399527e18c7000bd279f75afa",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-aid-to-negotiations-2026-a663d49bee01",
+    "name": "INC5.3 辅助公约谈判材料 Aid-to-Negotiations-08082026.pdf",
+    "shortTitle": "谈判辅助文件",
+    "title": "Aid to Negotiations — 8 August 2026",
+    "meetingId": "inc-5-3",
+    "relatedMeetingIds": [],
+    "publishedDate": "2026-08-08",
+    "publishedTime": null,
+    "documentSymbol": null,
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "en",
+    "bilingualGroup": "aid-to-negotiations-2026",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "961d54500e5ca0d58a187e0e45b943566ae77b3d903bdee043653f3ee8ed6348",
+    "sourceSha256": "83920b0a78de0358fe2cf3f2e11cb6c0b9c19c08048c1070557617966a527609",
+    "originalUrl": "documents/aid-to-negotiations-2026.pdf",
+    "previewUrl": "assets/previews/aid-to-negotiations-2026.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 19,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": "INC-5.3",
+    "sourceInformationUrl": "https://www.unep.org/en/inc-plastic-pollution/activities",
+    "classificationNote": "按用户指定归入 INC-5.3 展示。原文件发布日期仍为 2026-08-08；正文说明用于后续代表团团长会及 INC-5.4 筹备。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC5.3 辅助公约谈判材料 Aid-to-Negotiations-08082026.pdf",
+      "documentSymbol": null
+    },
+    "outline": [
+      {
+        "start": 13074,
+        "end": 13083,
+        "title": "ARTICLE 1",
+        "level": 2
+      },
+      {
+        "start": 13085,
+        "end": 13094,
+        "title": "OBJECTIVE",
+        "level": 2
+      },
+      {
+        "start": 13327,
+        "end": 13345,
+        "title": "PLACEHOLDER: SCOPE",
+        "level": 2
+      },
+      {
+        "start": 13761,
+        "end": 13770,
+        "title": "ARTICLE 2",
+        "level": 2
+      },
+      {
+        "start": 13772,
+        "end": 13797,
+        "title": "PRINCIPLES AND APPROACHES",
+        "level": 2
+      },
+      {
+        "start": 15892,
+        "end": 15901,
+        "title": "ARTICLE 3",
+        "level": 2
+      },
+      {
+        "start": 15903,
+        "end": 15914,
+        "title": "DEFINITIONS",
+        "level": 2
+      },
+      {
+        "start": 16505,
+        "end": 16514,
+        "title": "ARTICLE 4",
+        "level": 2
+      },
+      {
+        "start": 16516,
+        "end": 16532,
+        "title": "PLASTIC PRODUCTS",
+        "level": 2
+      },
+      {
+        "start": 20323,
+        "end": 20332,
+        "title": "ARTICLE 5",
+        "level": 2
+      },
+      {
+        "start": 20334,
+        "end": 20356,
+        "title": "PLASTIC PRODUCT DESIGN",
+        "level": 2
+      },
+      {
+        "start": 22251,
+        "end": 22260,
+        "title": "ARTICLE 6",
+        "level": 2
+      },
+      {
+        "start": 22262,
+        "end": 22283,
+        "title": "RELEASES AND LEAKAGES",
+        "level": 2
+      },
+      {
+        "start": 22812,
+        "end": 22821,
+        "title": "ARTICLE 7",
+        "level": 2
+      },
+      {
+        "start": 22825,
+        "end": 22849,
+        "title": "PLASTIC WASTE MANAGEMENT",
+        "level": 2
+      },
+      {
+        "start": 24997,
+        "end": 25006,
+        "title": "ARTICLE 8",
+        "level": 2
+      },
+      {
+        "start": 25008,
+        "end": 25045,
+        "title": "EXISTING AND LEGACY PLASTIC POLLUTION",
+        "level": 2
+      },
+      {
+        "start": 26036,
+        "end": 26045,
+        "title": "ARTICLE 9",
+        "level": 2
+      },
+      {
+        "start": 26048,
+        "end": 26063,
+        "title": "JUST TRANSITION",
+        "level": 2
+      },
+      {
+        "start": 26970,
+        "end": 26980,
+        "title": "ARTICLE 10",
+        "level": 2
+      },
+      {
+        "start": 26982,
+        "end": 27015,
+        "title": "FINANCIAL RESOURCES AND MECHANISM",
+        "level": 2
+      },
+      {
+        "start": 31317,
+        "end": 31327,
+        "title": "ARTICLE 11",
+        "level": 2
+      },
+      {
+        "start": 31329,
+        "end": 31430,
+        "title": "CAPACITY-BUILDING, TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER, INCLUDING INTERNATIONAL COOPERATION",
+        "level": 2
+      },
+      {
+        "start": 33613,
+        "end": 33623,
+        "title": "ARTICLE 12",
+        "level": 2
+      },
+      {
+        "start": 33625,
+        "end": 33654,
+        "title": "IMPLEMENTATION AND COMPLIANCE",
+        "level": 2
+      },
+      {
+        "start": 34765,
+        "end": 34775,
+        "title": "ARTICLE 13",
+        "level": 2
+      },
+      {
+        "start": 34777,
+        "end": 34791,
+        "title": "NATIONAL PLANS",
+        "level": 2
+      },
+      {
+        "start": 36119,
+        "end": 36129,
+        "title": "ARTICLE 14",
+        "level": 2
+      },
+      {
+        "start": 36131,
+        "end": 36140,
+        "title": "REPORTING",
+        "level": 2
+      },
+      {
+        "start": 36969,
+        "end": 36979,
+        "title": "ARTICLE 15",
+        "level": 2
+      },
+      {
+        "start": 36981,
+        "end": 37005,
+        "title": "EFFECTIVENESS EVALUATION",
+        "level": 2
+      },
+      {
+        "start": 37882,
+        "end": 37892,
+        "title": "ARTICLE 16",
+        "level": 2
+      },
+      {
+        "start": 37894,
+        "end": 37914,
+        "title": "INFORMATION EXCHANGE",
+        "level": 2
+      },
+      {
+        "start": 38612,
+        "end": 38622,
+        "title": "ARTICLE 17",
+        "level": 2
+      },
+      {
+        "start": 38625,
+        "end": 38678,
+        "title": "PUBLIC INFORMATION, AWARENESS, EDUCATION AND RESEARCH",
+        "level": 2
+      },
+      {
+        "start": 40675,
+        "end": 40685,
+        "title": "ARTICLE 18",
+        "level": 2
+      },
+      {
+        "start": 40687,
+        "end": 40712,
+        "title": "CONFERENCE OF THE PARTIES",
+        "level": 2
+      },
+      {
+        "start": 44010,
+        "end": 44020,
+        "title": "ARTICLE 19",
+        "level": 2
+      },
+      {
+        "start": 44022,
+        "end": 44039,
+        "title": "SUBSIDIARY BODIES",
+        "level": 2
+      },
+      {
+        "start": 44385,
+        "end": 44395,
+        "title": "ARTICLE 20",
+        "level": 2
+      },
+      {
+        "start": 44397,
+        "end": 44408,
+        "title": "SECRETARIAT",
+        "level": 2
+      },
+      {
+        "start": 45352,
+        "end": 45362,
+        "title": "ARTICLE 21",
+        "level": 2
+      },
+      {
+        "start": 45364,
+        "end": 45386,
+        "title": "SETTLEMENT OF DISPUTES",
+        "level": 2
+      },
+      {
+        "start": 47675,
+        "end": 47685,
+        "title": "ARTICLE 22",
+        "level": 2
+      },
+      {
+        "start": 47687,
+        "end": 47715,
+        "title": "AMENDMENTS TO THE CONVENTION",
+        "level": 2
+      },
+      {
+        "start": 49321,
+        "end": 49331,
+        "title": "ARTICLE 23",
+        "level": 2
+      },
+      {
+        "start": 49333,
+        "end": 49366,
+        "title": "ADOPTION AND AMENDMENT OF ANNEXES",
+        "level": 2
+      },
+      {
+        "start": 51789,
+        "end": 51799,
+        "title": "ARTICLE 24",
+        "level": 2
+      },
+      {
+        "start": 51801,
+        "end": 51814,
+        "title": "RIGHT TO VOTE",
+        "level": 2
+      },
+      {
+        "start": 52339,
+        "end": 52349,
+        "title": "ARTICLE 25",
+        "level": 2
+      },
+      {
+        "start": 52351,
+        "end": 52360,
+        "title": "SIGNATURE",
+        "level": 2
+      },
+      {
+        "start": 52587,
+        "end": 52597,
+        "title": "ARTICLE 26",
+        "level": 2
+      },
+      {
+        "start": 52599,
+        "end": 52646,
+        "title": "RATIFICATION, ACCEPTANCE, APPROVAL OR ACCESSION",
+        "level": 2
+      },
+      {
+        "start": 54342,
+        "end": 54352,
+        "title": "ARTICLE 27",
+        "level": 2
+      },
+      {
+        "start": 54354,
+        "end": 54370,
+        "title": "ENTRY INTO FORCE",
+        "level": 2
+      },
+      {
+        "start": 55258,
+        "end": 55268,
+        "title": "ARTICLE 28",
+        "level": 2
+      },
+      {
+        "start": 55270,
+        "end": 55282,
+        "title": "RESERVATIONS",
+        "level": 2
+      },
+      {
+        "start": 55342,
+        "end": 55362,
+        "title": "AGREED AD REFERENDUM",
+        "level": 2
+      },
+      {
+        "start": 55342,
+        "end": 55362,
+        "title": "AGREED AD REFERENDUM",
+        "level": 2
+      },
+      {
+        "start": 55342,
+        "end": 55362,
+        "title": "AGREED AD REFERENDUM",
+        "level": 2
+      },
+      {
+        "start": 55364,
+        "end": 55374,
+        "title": "ARTICLE 29",
+        "level": 2
+      },
+      {
+        "start": 55376,
+        "end": 55386,
+        "title": "WITHDRAWAL",
+        "level": 2
+      },
+      {
+        "start": 55844,
+        "end": 55854,
+        "title": "ARTICLE 30",
+        "level": 2
+      },
+      {
+        "start": 55856,
+        "end": 55866,
+        "title": "DEPOSITARY",
+        "level": 2
+      },
+      {
+        "start": 55981,
+        "end": 55991,
+        "title": "ARTICLE 31",
+        "level": 2
+      },
+      {
+        "start": 55993,
+        "end": 56008,
+        "title": "AUTHENTIC TEXTS",
+        "level": 2
+      },
+      {
+        "start": 56330,
+        "end": 56348,
+        "title": "PLACEHOLDER: ANNEX",
+        "level": 2
+      }
+    ],
+    "sourceOriginalSha256": "a663d49bee01a0a80f762302386920504feabd8ad7bb695bbe5b23af4ac35c83",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc4-revised-zero-zh-04b879ba159f",
+    "name": "INC4 RevisedZeroDraftTextC.docx",
+    "shortTitle": "修订零案文",
+    "title": "修订案文草案",
+    "meetingId": "inc-4",
+    "relatedMeetingIds": [],
+    "publishedDate": "2023-12-28",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.4/3",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "zh-CN",
+    "bilingualGroup": "inc4-revised-zero",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "59be91511501b2c7ffbf4732656e9bd49970cf3c50d8f622a97c0ac3d1317a44",
+    "sourceSha256": "d463fd761febfcc2d6447db5fa0da9adff6e31c9ac1e13562e7ffb81927a7a2e",
+    "originalUrl": "documents/inc4-revised-zero-zh.docx",
+    "previewUrl": "assets/previews/inc4-revised-zero-zh.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 96,
+    "fileType": "DOCX",
+    "collection": "sessions",
+    "previewRenderKey": "inc4-revised-zero-zh-cjk",
+    "previewNote": "首页预览由源文件渲染；页数可能受渲染环境影响。",
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "附件首页载明第四届会议、2024年4月23日至29日、渥太华，文件号 UNEP/PP/INC.4/3。",
+    "extractionNote": "DOCX 正文及表格按文档顺序提取；脚注和尾注保留引用标记并附于正文后。不保留版式，批注及删除的修订文字不作为最终正文。页数按文档渲染结果统计。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC4 RevisedZeroDraftTextC.docx",
+      "documentSymbol": "UNEP/PP/INC.4/3"
+    },
+    "outline": [
+      {
+        "start": 3075,
+        "end": 3078,
+        "title": "第一编",
+        "level": 1
+      },
+      {
+        "start": 3080,
+        "end": 3088,
+        "title": "序言[脚注 7]",
+        "level": 2
+      },
+      {
+        "start": 4766,
+        "end": 4768,
+        "title": "目标",
+        "level": 2
+      },
+      {
+        "start": 5173,
+        "end": 5181,
+        "title": "定义[脚注 9]",
+        "level": 2
+      },
+      {
+        "start": 5276,
+        "end": 5285,
+        "title": "原则[脚注 10]",
+        "level": 2
+      },
+      {
+        "start": 5985,
+        "end": 5994,
+        "title": "范围[脚注 11]",
+        "level": 2
+      },
+      {
+        "start": 8847,
+        "end": 8850,
+        "title": "第二编",
+        "level": 1
+      },
+      {
+        "start": 8852,
+        "end": 8859,
+        "title": "初级塑料聚合物",
+        "level": 2
+      },
+      {
+        "start": 10398,
+        "end": 10410,
+        "title": "引起关切的化学品和聚合物",
+        "level": 2
+      },
+      {
+        "start": 13942,
+        "end": 13977,
+        "title": "可避免的问题塑料产品，包括寿命短和一次性塑料产品以及有意添加的微塑料",
+        "level": 2
+      },
+      {
+        "start": 14043,
+        "end": 14088,
+        "title": "问题[塑料产品]**和可避免的塑料产品[以及此种产品类别]**，包括寿命短和一次性塑料产品",
+        "level": 3
+      },
+      {
+        "start": 15469,
+        "end": 15486,
+        "title": "[含有]有意添加的微塑料[的产品]",
+        "level": 3
+      },
+      {
+        "start": 16519,
+        "end": 16531,
+        "title": "3之二微塑料和纳米塑料",
+        "level": 2
+      },
+      {
+        "start": 16553,
+        "end": 16568,
+        "title": "缔约方提出要求后可以享受的豁免",
+        "level": 2
+      },
+      {
+        "start": 17387,
+        "end": 17397,
+        "title": "4之二专门工作方案",
+        "level": 2
+      },
+      {
+        "start": 17767,
+        "end": 17777,
+        "title": "产品设计、成分和性能",
+        "level": 2
+      },
+      {
+        "start": 17779,
+        "end": 17790,
+        "title": "[产品[设计和]性能]",
+        "level": 3
+      },
+      {
+        "start": 20263,
+        "end": 20305,
+        "title": "[[减少、]**[重复使用]、[再循环、]再填充和维修塑料以及]塑料产品[循环办法]",
+        "level": 3
+      },
+      {
+        "start": 21766,
+        "end": 21774,
+        "title": "使用再生塑料成分",
+        "level": 3
+      },
+      {
+        "start": 22987,
+        "end": 22996,
+        "title": "替代塑料和塑料产品",
+        "level": 3
+      },
+      {
+        "start": 24283,
+        "end": 24289,
+        "title": "非塑料代用品",
+        "level": 2
+      },
+      {
+        "start": 25737,
+        "end": 25744,
+        "title": "生产者延伸责任",
+        "level": 2
+      },
+      {
+        "start": 27142,
+        "end": 27159,
+        "title": "塑料在其整个生命周期中的排放和释放",
+        "level": 2
+      },
+      {
+        "start": 30902,
+        "end": 30906,
+        "title": "废物管理",
+        "level": 2
+      },
+      {
+        "start": 30908,
+        "end": 30918,
+        "title": "[[塑料]废物管理]",
+        "level": 3
+      },
+      {
+        "start": 33716,
+        "end": 33720,
+        "title": "[渔具]",
+        "level": 3
+      },
+      {
+        "start": 35223,
+        "end": 35255,
+        "title": "[所列入化学品[、聚合物]和产品以及塑料废物]的贸易[相关措施]",
+        "level": 2
+      },
+      {
+        "start": 35284,
+        "end": 35300,
+        "title": "所列入化学品、聚合物和产品的贸易",
+        "level": 3
+      },
+      {
+        "start": 36570,
+        "end": 36583,
+        "title": "[无害]塑料废物的越境转移",
+        "level": 3
+      },
+      {
+        "start": 37756,
+        "end": 37776,
+        "title": "现存塑料污染（包括海洋环境中的塑料污染）",
+        "level": 2
+      },
+      {
+        "start": 39285,
+        "end": 39289,
+        "title": "公正过渡",
+        "level": 2
+      },
+      {
+        "start": 41117,
+        "end": 41129,
+        "title": "透明度、跟踪、监测和标签",
+        "level": 2
+      },
+      {
+        "start": 42739,
+        "end": 42755,
+        "title": "13之二与第二编有关的总体条款",
+        "level": 2
+      },
+      {
+        "start": 42993,
+        "end": 42996,
+        "title": "第三编",
+        "level": 1
+      },
+      {
+        "start": 42998,
+        "end": 43009,
+        "title": "供资[机制[和资源]]",
+        "level": 2
+      },
+      {
+        "start": 49289,
+        "end": 49303,
+        "title": "能力建设、技术援助和技术转让",
+        "level": 2
+      },
+      {
+        "start": 50472,
+        "end": 50483,
+        "title": "[3.] 技术[转让]",
+        "level": 2
+      },
+      {
+        "start": 51460,
+        "end": 51463,
+        "title": "第四编",
+        "level": 1
+      },
+      {
+        "start": 51465,
+        "end": 51477,
+        "title": "国家[行动][执行]计划",
+        "level": 2
+      },
+      {
+        "start": 54054,
+        "end": 54059,
+        "title": "履约和遵约",
+        "level": 2
+      },
+      {
+        "start": 56108,
+        "end": 56118,
+        "title": "报告[执行]进展情况",
+        "level": 2
+      },
+      {
+        "start": 57901,
+        "end": 57924,
+        "title": "定期评估和监测文书*执行进展情况[和成效评估]",
+        "level": 2
+      },
+      {
+        "start": 57926,
+        "end": 57932,
+        "title": "[评估和监测",
+        "level": 3
+      },
+      {
+        "start": 58250,
+        "end": 58268,
+        "title": "b.] 成效[成效评估][进展评估]",
+        "level": 3
+      },
+      {
+        "start": 59380,
+        "end": 59432,
+        "title": "[b][c.] 审查引起关切的[危险]化学品[和聚合物]、微塑料和可避免的问题产品[，以及非塑料代用品]",
+        "level": 3
+      },
+      {
+        "start": 59843,
+        "end": 59847,
+        "title": "国际合作",
+        "level": 2
+      },
+      {
+        "start": 60954,
+        "end": 60958,
+        "title": "信息交流",
+        "level": 2
+      },
+      {
+        "start": 61788,
+        "end": 61804,
+        "title": "提高认识、教育和研究[以及开发]",
+        "level": 2
+      },
+      {
+        "start": 63559,
+        "end": 63573,
+        "title": "[合作伙伴和]利益攸关方参与",
+        "level": 2
+      },
+      {
+        "start": 64263,
+        "end": 64271,
+        "title": "8之二健康方面",
+        "level": 2
+      },
+      {
+        "start": 64709,
+        "end": 64712,
+        "title": "第五编",
+        "level": 1
+      },
+      {
+        "start": 64714,
+        "end": 64725,
+        "title": "理事机构[脚注 55]",
+        "level": 2
+      },
+      {
+        "start": 65472,
+        "end": 65476,
+        "title": "附属机构",
+        "level": 2
+      },
+      {
+        "start": 65799,
+        "end": 65809,
+        "title": "秘书处[脚注 57]",
+        "level": 2
+      },
+      {
+        "start": 66215,
+        "end": 66218,
+        "title": "第六编",
+        "level": 1
+      },
+      {
+        "start": 66286,
+        "end": 66301,
+        "title": "文书*的可能附件[脚注 59]",
+        "level": 1
+      },
+      {
+        "start": 66303,
+        "end": 66327,
+        "title": "附件A初级塑料聚合物以及引起关切的化学品和聚合物",
+        "level": 1
+      },
+      {
+        "start": 66599,
+        "end": 66636,
+        "title": "附件B可避免的问题塑料产品，包括寿命短和一次性塑料产品以及有意添加的微塑料",
+        "level": 1
+      },
+      {
+        "start": 66851,
+        "end": 66864,
+        "title": "附件C产品设计、成分和性能",
+        "level": 1
+      },
+      {
+        "start": 67215,
+        "end": 67241,
+        "title": "附件D基于共同原则建立和运行生产者延伸责任制度的模式",
+        "level": 1
+      },
+      {
+        "start": 67262,
+        "end": 67282,
+        "title": "附件E塑料在其整个生命周期中的排放和释放",
+        "level": 1
+      },
+      {
+        "start": 67333,
+        "end": 67340,
+        "title": "附件F废物管理",
+        "level": 1
+      },
+      {
+        "start": 67492,
+        "end": 67501,
+        "title": "附件G国家计划格式",
+        "level": 1
+      },
+      {
+        "start": 67526,
+        "end": 67555,
+        "title": "附件[X]——塑料生命周期每个阶段的有效措施[脚注 66]",
+        "level": 1
+      },
+      {
+        "start": 67557,
+        "end": 67561,
+        "title": "全部阶段",
+        "level": 3
+      },
+      {
+        "start": 67626,
+        "end": 67630,
+        "title": "生产阶段",
+        "level": 3
+      },
+      {
+        "start": 67988,
+        "end": 67998,
+        "title": "分销/销售/消费阶段",
+        "level": 3
+      },
+      {
+        "start": 68223,
+        "end": 68232,
+        "title": "废物管理和处置阶段",
+        "level": 3
+      },
+      {
+        "start": 68450,
+        "end": 68455,
+        "title": "跨领域要素",
+        "level": 3
+      }
+    ],
+    "originalExtractedTextSha256": "18e59bfa221c45ecfc881216a42c8d9620755465f09030ab8643e7e0fc58ef50",
+    "editorialCorrections": [
+      {
+        "before": "Distr.: General",
+        "after": "分发：一般",
+        "reason": "文首标签",
+        "start": 33,
+        "updatedStart": 33
+      },
+      {
+        "before": "28 December 2023",
+        "after": "2023年12月28日",
+        "reason": "日期标签",
+        "start": 51,
+        "updatedStart": 41
+      },
+      {
+        "before": "Chinese",
+        "after": "中文",
+        "reason": "语种标签",
+        "start": 69,
+        "updatedStart": 54
+      },
+      {
+        "before": "Original: English",
+        "after": "原文：英文",
+        "reason": "原文语种标签",
+        "start": 77,
+        "updatedStart": 57
+      },
+      {
+        "before": "[Footnote 1]",
+        "after": "[脚注 1]",
+        "reason": "脚注标签",
+        "start": 176,
+        "updatedStart": 144
+      },
+      {
+        "before": "[Footnote 2]",
+        "after": "[脚注 2]",
+        "reason": "脚注标签",
+        "start": 362,
+        "updatedStart": 324
+      },
+      {
+        "before": "[Footnote 3]",
+        "after": "[脚注 3]",
+        "reason": "脚注标签",
+        "start": 399,
+        "updatedStart": 355
+      },
+      {
+        "before": "[Footnote 4]",
+        "after": "[脚注 4]",
+        "reason": "脚注标签",
+        "start": 643,
+        "updatedStart": 593
+      },
+      {
+        "before": "[Footnote 5]",
+        "after": "[脚注 5]",
+        "reason": "脚注标签",
+        "start": 773,
+        "updatedStart": 717
+      },
+      {
+        "before": "[Footnote 6]",
+        "after": "[脚注 6]",
+        "reason": "脚注标签",
+        "start": 1813,
+        "updatedStart": 1751
+      },
+      {
+        "before": "[Footnote 7]",
+        "after": "[脚注 7]",
+        "reason": "脚注标签",
+        "start": 3150,
+        "updatedStart": 3082
+      },
+      {
+        "before": "[Footnote 8]",
+        "after": "[脚注 8]",
+        "reason": "脚注标签",
+        "start": 4896,
+        "updatedStart": 4822
+      },
+      {
+        "before": "[Footnote 9]",
+        "after": "[脚注 9]",
+        "reason": "脚注标签",
+        "start": 5255,
+        "updatedStart": 5175
+      },
+      {
+        "before": "[Footnote 10]",
+        "after": "[脚注 10]",
+        "reason": "脚注标签",
+        "start": 5364,
+        "updatedStart": 5278
+      },
+      {
+        "before": "[Footnote 11]",
+        "after": "[脚注 11]",
+        "reason": "脚注标签",
+        "start": 6079,
+        "updatedStart": 5987
+      },
+      {
+        "before": "[Footnote 12]",
+        "after": "[脚注 12]",
+        "reason": "脚注标签",
+        "start": 16818,
+        "updatedStart": 16720
+      },
+      {
+        "before": "[Footnote 13]",
+        "after": "[脚注 13]",
+        "reason": "脚注标签",
+        "start": 17083,
+        "updatedStart": 16979
+      },
+      {
+        "before": "[Footnote 14]",
+        "after": "[脚注 14]",
+        "reason": "脚注标签",
+        "start": 24663,
+        "updatedStart": 24553
+      },
+      {
+        "before": "[Footnote 15]",
+        "after": "[脚注 15]",
+        "reason": "脚注标签",
+        "start": 43036,
+        "updatedStart": 42920
+      },
+      {
+        "before": "[Footnote 16]",
+        "after": "[脚注 16]",
+        "reason": "脚注标签",
+        "start": 43157,
+        "updatedStart": 43035
+      },
+      {
+        "before": "[Footnote 17]",
+        "after": "[脚注 17]",
+        "reason": "脚注标签",
+        "start": 43375,
+        "updatedStart": 43247
+      },
+      {
+        "before": "[Footnote 18]",
+        "after": "[脚注 18]",
+        "reason": "脚注标签",
+        "start": 44325,
+        "updatedStart": 44191
+      },
+      {
+        "before": "[Footnote 19]",
+        "after": "[脚注 19]",
+        "reason": "脚注标签",
+        "start": 45582,
+        "updatedStart": 45442
+      },
+      {
+        "before": "[Footnote 20]",
+        "after": "[脚注 20]",
+        "reason": "脚注标签",
+        "start": 46149,
+        "updatedStart": 46003
+      },
+      {
+        "before": "[Footnote 21]",
+        "after": "[脚注 21]",
+        "reason": "脚注标签",
+        "start": 46230,
+        "updatedStart": 46078
+      },
+      {
+        "before": "[Footnote 22]",
+        "after": "[脚注 22]",
+        "reason": "脚注标签",
+        "start": 47677,
+        "updatedStart": 47519
+      },
+      {
+        "before": "[Footnote 23]",
+        "after": "[脚注 23]",
+        "reason": "脚注标签",
+        "start": 47758,
+        "updatedStart": 47594
+      },
+      {
+        "before": "[Footnote 24]",
+        "after": "[脚注 24]",
+        "reason": "脚注标签",
+        "start": 48535,
+        "updatedStart": 48365
+      },
+      {
+        "before": "[Footnote 25]",
+        "after": "[脚注 25]",
+        "reason": "脚注标签",
+        "start": 48668,
+        "updatedStart": 48492
+      },
+      {
+        "before": "[Footnote 26]",
+        "after": "[脚注 26]",
+        "reason": "脚注标签",
+        "start": 49044,
+        "updatedStart": 48862
+      },
+      {
+        "before": "[Footnote 27]",
+        "after": "[脚注 27]",
+        "reason": "脚注标签",
+        "start": 49778,
+        "updatedStart": 49590
+      },
+      {
+        "before": "[Footnote 28]",
+        "after": "[脚注 28]",
+        "reason": "脚注标签",
+        "start": 49792,
+        "updatedStart": 49598
+      },
+      {
+        "before": "[Footnote 29]",
+        "after": "[脚注 29]",
+        "reason": "脚注标签",
+        "start": 51132,
+        "updatedStart": 50932
+      },
+      {
+        "before": "[Footnote 30]",
+        "after": "[脚注 30]",
+        "reason": "脚注标签",
+        "start": 51693,
+        "updatedStart": 51487
+      },
+      {
+        "before": "[Footnote 31]",
+        "after": "[脚注 31]",
+        "reason": "脚注标签",
+        "start": 51826,
+        "updatedStart": 51614
+      },
+      {
+        "before": "[Footnote 32]",
+        "after": "[脚注 32]",
+        "reason": "脚注标签",
+        "start": 52086,
+        "updatedStart": 51868
+      },
+      {
+        "before": "[Footnote 33]",
+        "after": "[脚注 33]",
+        "reason": "脚注标签",
+        "start": 53130,
+        "updatedStart": 52906
+      },
+      {
+        "before": "[Footnote 34]",
+        "after": "[脚注 34]",
+        "reason": "脚注标签",
+        "start": 54275,
+        "updatedStart": 54045
+      },
+      {
+        "before": "[Footnote 35]",
+        "after": "[脚注 35]",
+        "reason": "脚注标签",
+        "start": 54601,
+        "updatedStart": 54365
+      },
+      {
+        "before": "[Footnote 36]",
+        "after": "[脚注 36]",
+        "reason": "脚注标签",
+        "start": 54742,
+        "updatedStart": 54500
+      },
+      {
+        "before": "[Footnote 37]",
+        "after": "[脚注 37]",
+        "reason": "脚注标签",
+        "start": 55191,
+        "updatedStart": 54943
+      },
+      {
+        "before": "[Footnote 38]",
+        "after": "[脚注 38]",
+        "reason": "脚注标签",
+        "start": 55231,
+        "updatedStart": 54977
+      },
+      {
+        "before": "[Footnote 39]",
+        "after": "[脚注 39]",
+        "reason": "脚注标签",
+        "start": 55941,
+        "updatedStart": 55681
+      },
+      {
+        "before": "[Footnote 40]",
+        "after": "[脚注 40]",
+        "reason": "脚注标签",
+        "start": 56572,
+        "updatedStart": 56306
+      },
+      {
+        "before": "[Footnote 41]",
+        "after": "[脚注 41]",
+        "reason": "脚注标签",
+        "start": 56765,
+        "updatedStart": 56493
+      },
+      {
+        "before": "[Footnote 42]",
+        "after": "[脚注 42]",
+        "reason": "脚注标签",
+        "start": 57825,
+        "updatedStart": 57547
+      },
+      {
+        "before": "[Footnote 43]",
+        "after": "[脚注 43]",
+        "reason": "脚注标签",
+        "start": 59182,
+        "updatedStart": 58898
+      },
+      {
+        "before": "[Footnote 44]",
+        "after": "[脚注 44]",
+        "reason": "脚注标签",
+        "start": 59839,
+        "updatedStart": 59549
+      },
+      {
+        "before": "[Footnote 45]",
+        "after": "[脚注 45]",
+        "reason": "脚注标签",
+        "start": 59939,
+        "updatedStart": 59643
+      },
+      {
+        "before": "[Footnote 46]",
+        "after": "[脚注 46]",
+        "reason": "脚注标签",
+        "start": 59997,
+        "updatedStart": 59695
+      },
+      {
+        "before": "[Footnote 47]",
+        "after": "[脚注 47]",
+        "reason": "脚注标签",
+        "start": 60038,
+        "updatedStart": 59730
+      },
+      {
+        "before": "[Footnote 48]",
+        "after": "[脚注 48]",
+        "reason": "脚注标签",
+        "start": 60088,
+        "updatedStart": 59774
+      },
+      {
+        "before": "[Footnote 49]",
+        "after": "[脚注 49]",
+        "reason": "脚注标签",
+        "start": 60126,
+        "updatedStart": 59806
+      },
+      {
+        "before": "[Footnote 50]",
+        "after": "[脚注 50]",
+        "reason": "脚注标签",
+        "start": 60422,
+        "updatedStart": 60096
+      },
+      {
+        "before": "[Footnote 51]",
+        "after": "[脚注 51]",
+        "reason": "脚注标签",
+        "start": 60990,
+        "updatedStart": 60658
+      },
+      {
+        "before": "[Footnote 52]",
+        "after": "[脚注 52]",
+        "reason": "脚注标签",
+        "start": 61127,
+        "updatedStart": 60789
+      },
+      {
+        "before": "[Footnote 53]",
+        "after": "[脚注 53]",
+        "reason": "脚注标签",
+        "start": 63937,
+        "updatedStart": 63593
+      },
+      {
+        "before": "[Footnote 54]",
+        "after": "[脚注 54]",
+        "reason": "脚注标签",
+        "start": 64015,
+        "updatedStart": 63665
+      },
+      {
+        "before": "[Footnote 55]",
+        "after": "[脚注 55]",
+        "reason": "脚注标签",
+        "start": 65074,
+        "updatedStart": 64718
+      },
+      {
+        "before": "[Footnote 56]",
+        "after": "[脚注 56]",
+        "reason": "脚注标签",
+        "start": 66152,
+        "updatedStart": 65790
+      },
+      {
+        "before": "[Footnote 57]",
+        "after": "[脚注 57]",
+        "reason": "脚注标签",
+        "start": 66170,
+        "updatedStart": 65802
+      },
+      {
+        "before": "[Footnote 58]",
+        "after": "[脚注 58]",
+        "reason": "脚注标签",
+        "start": 66651,
+        "updatedStart": 66277
+      },
+      {
+        "before": "[Footnote 59]",
+        "after": "[脚注 59]",
+        "reason": "脚注标签",
+        "start": 66674,
+        "updatedStart": 66294
+      },
+      {
+        "before": "[Footnote 60]",
+        "after": "[脚注 60]",
+        "reason": "脚注标签",
+        "start": 66834,
+        "updatedStart": 66448
+      },
+      {
+        "before": "[Footnote 61]",
+        "after": "[脚注 61]",
+        "reason": "脚注标签",
+        "start": 67108,
+        "updatedStart": 66716
+      },
+      {
+        "before": "[Footnote 62]",
+        "after": "[脚注 62]",
+        "reason": "脚注标签",
+        "start": 67321,
+        "updatedStart": 66923
+      },
+      {
+        "before": "[Footnote 63]",
+        "after": "[脚注 63]",
+        "reason": "脚注标签",
+        "start": 67345,
+        "updatedStart": 66941
+      },
+      {
+        "before": "[Footnote 64]",
+        "after": "[脚注 64]",
+        "reason": "脚注标签",
+        "start": 67663,
+        "updatedStart": 67253
+      },
+      {
+        "before": "[Footnote 65]",
+        "after": "[脚注 65]",
+        "reason": "脚注标签",
+        "start": 67740,
+        "updatedStart": 67324
+      },
+      {
+        "before": "[Footnote 66]",
+        "after": "[脚注 66]",
+        "reason": "脚注标签",
+        "start": 67970,
+        "updatedStart": 67548
+      },
+      {
+        "before": "FOOTNOTES",
+        "after": "脚注",
+        "reason": "脚注标题",
+        "start": 69094,
+        "updatedStart": 68666
+      }
+    ],
+    "editorialRevision": 1,
+    "editorialNote": "中文阅读稿已校订未译词及标签；原附件保留原样，校订不记为用户修订。",
+    "sourceOriginalSha256": "04b879ba159f0d3969115300753d23c6ca5c08535baccf654f28dbee8b369a06",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc5-compilation-zh-c5775b1644d7",
+    "name": "INC5_中文汇编案文Compilation_Text_Chinese.pdf",
+    "shortTitle": "汇编案文",
+    "title": "国际文书的案文草案汇编",
+    "meetingId": "inc-5-1",
+    "relatedMeetingIds": [],
+    "publishedDate": "2024-07-09",
+    "publishedTime": null,
+    "documentSymbol": "UNEP/PP/INC.5/4",
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "zh-CN",
+    "bilingualGroup": "inc5-compilation",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "3950ca26828f29cfdef11130da59766cc41e35b3e5b98f8df0fdbddb92270dcf",
+    "sourceSha256": "a2b9db1cc4590686c78ae95e29c47130bf7b4e25faacc3230a4e09624d13c62d",
+    "originalUrl": "documents/inc5-compilation-zh.pdf",
+    "previewUrl": "assets/previews/inc5-compilation-zh.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 80,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "附件首页载明第五届会议、2024年11月25日至12月1日、大韩民国釜山，对应第五届会议第一部分。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC5_中文汇编案文Compilation_Text_Chinese.pdf",
+      "documentSymbol": "UNEP/PP/INC.5/4"
+    },
+    "outline": [
+      {
+        "start": 13144,
+        "end": 13147,
+        "title": "第一编",
+        "level": 1
+      },
+      {
+        "start": 13149,
+        "end": 13155,
+        "title": "1.序言",
+        "level": 2
+      },
+      {
+        "start": 17075,
+        "end": 17080,
+        "title": "2.目标",
+        "level": 2
+      },
+      {
+        "start": 17600,
+        "end": 17606,
+        "title": "3.定义",
+        "level": 2
+      },
+      {
+        "start": 17904,
+        "end": 17918,
+        "title": "[4.原则[和办法]]",
+        "level": 2
+      },
+      {
+        "start": 20687,
+        "end": 20693,
+        "title": "5.范围",
+        "level": 2
+      },
+      {
+        "start": 22026,
+        "end": 22029,
+        "title": "第二编",
+        "level": 1
+      },
+      {
+        "start": 22031,
+        "end": 22048,
+        "title": "1.[初级[和次生]塑料聚合物]",
+        "level": 2
+      },
+      {
+        "start": 25239,
+        "end": 25291,
+        "title": "2. [就[[塑料和]塑料产品中]引起关切的[化学品[和聚合物]][与相关多边环境协定的合作与协调]]",
+        "level": 2
+      },
+      {
+        "start": 25293,
+        "end": 25320,
+        "title": "[备选标题：[塑料和塑料产品中]引起关切的危险化学品]",
+        "level": 2
+      },
+      {
+        "start": 29322,
+        "end": 29433,
+        "title": "3. [[问题[塑料产品][和可避免的][一次性]塑料产品][[和此种产品类别]]， [[包括][寿命短]和一次性塑料产品][和[本身是微塑料的产品和][含有]有意添加]的微塑料的产品]（拟议位置：移至第二编第 5 条）",
+        "level": 2
+      },
+      {
+        "start": 31657,
+        "end": 31711,
+        "title": "[3 之二将产品列入附件 B 第二部分[可避免的问题塑料产品]和附件 B 第三部分[有问题的塑料产品]",
+        "level": 2
+      },
+      {
+        "start": 33924,
+        "end": 33944,
+        "title": "4.[缔约方提出要求后可以享受的豁免]",
+        "level": 2
+      },
+      {
+        "start": 34975,
+        "end": 34989,
+        "title": "[4之二专门工作方案]",
+        "level": 2
+      },
+      {
+        "start": 35759,
+        "end": 35774,
+        "title": "5.产品设计、[成分]和性能",
+        "level": 2
+      },
+      {
+        "start": 42926,
+        "end": 42935,
+        "title": "6.非塑料代用品",
+        "level": 2
+      },
+      {
+        "start": 43860,
+        "end": 43874,
+        "title": "7.[生产者[延伸]责任]",
+        "level": 2
+      },
+      {
+        "start": 46233,
+        "end": 46253,
+        "title": "8.塑料在其整个生命周期中的排放和释放",
+        "level": 2
+      },
+      {
+        "start": 46255,
+        "end": 46321,
+        "title": "备选标题： 塑料[产品和产品废物 ][废物和微塑料 ][在[塑料][全部][其]生命周期内[向环境中的][排放和][泄漏和]释放]",
+        "level": 2
+      },
+      {
+        "start": 48912,
+        "end": 48919,
+        "title": "9.废物管理",
+        "level": 2
+      },
+      {
+        "start": 50956,
+        "end": 50962,
+        "title": "XX.渔具",
+        "level": 2
+      },
+      {
+        "start": 53720,
+        "end": 53758,
+        "title": "10.[所列入化学品[、聚合物]和产品以及塑料废物]的贸易[相关措施]",
+        "level": 2
+      },
+      {
+        "start": 58199,
+        "end": 58211,
+        "title": "12.公正过渡[途径]",
+        "level": 2
+      },
+      {
+        "start": 60418,
+        "end": 60434,
+        "title": "13.透明度、跟踪、监测和标签",
+        "level": 2
+      },
+      {
+        "start": 62121,
+        "end": 62140,
+        "title": "[13之二与第二编有关的总体条款",
+        "level": 2
+      },
+      {
+        "start": 62382,
+        "end": 62390,
+        "title": "第三编",
+        "level": 1
+      },
+      {
+        "start": 62392,
+        "end": 62406,
+        "title": "1.供资[机制[和资源]]",
+        "level": 2
+      },
+      {
+        "start": 69102,
+        "end": 69119,
+        "title": "2.能力建设、技术援助和技术转让",
+        "level": 2
+      },
+      {
+        "start": 70713,
+        "end": 70724,
+        "title": "[3.]技术[转让]",
+        "level": 2
+      },
+      {
+        "start": 71815,
+        "end": 71818,
+        "title": "第四编",
+        "level": 1
+      },
+      {
+        "start": 71820,
+        "end": 71837,
+        "title": "1.国家[行动][执行]计划",
+        "level": 2
+      },
+      {
+        "start": 74387,
+        "end": 74409,
+        "title": "2.履约[[和][、]遵约][和合作]",
+        "level": 2
+      },
+      {
+        "start": 77185,
+        "end": 77198,
+        "title": "3.报告[执行]进展情况",
+        "level": 2
+      },
+      {
+        "start": 79055,
+        "end": 79081,
+        "title": "4.定期评估和监测文书*执行进展情况[和成效评估]",
+        "level": 2
+      },
+      {
+        "start": 81140,
+        "end": 81147,
+        "title": "5.国际合作",
+        "level": 2
+      },
+      {
+        "start": 82796,
+        "end": 82803,
+        "title": "6.信息交流",
+        "level": 2
+      },
+      {
+        "start": 84037,
+        "end": 84056,
+        "title": "7.提高认识、教育和研究[以及开发]",
+        "level": 2
+      },
+      {
+        "start": 86001,
+        "end": 86018,
+        "title": "8.[合作伙伴和]利益攸关方参与",
+        "level": 2
+      },
+      {
+        "start": 87298,
+        "end": 87301,
+        "title": "第五编",
+        "level": 1
+      },
+      {
+        "start": 87303,
+        "end": 87312,
+        "title": "1.理事机构",
+        "level": 2
+      },
+      {
+        "start": 88294,
+        "end": 88301,
+        "title": "2.附属机构",
+        "level": 2
+      },
+      {
+        "start": 88640,
+        "end": 88648,
+        "title": "3.秘书处",
+        "level": 2
+      },
+      {
+        "start": 89392,
+        "end": 89403,
+        "title": "第六编最后条款",
+        "level": 1
+      },
+      {
+        "start": 89405,
+        "end": 89412,
+        "title": "1.解决争端",
+        "level": 2
+      },
+      {
+        "start": 90750,
+        "end": 90761,
+        "title": "3.附件的通过和修正",
+        "level": 2
+      },
+      {
+        "start": 91582,
+        "end": 91588,
+        "title": "4.表决权",
+        "level": 2
+      },
+      {
+        "start": 91716,
+        "end": 91721,
+        "title": "5.签署",
+        "level": 2
+      },
+      {
+        "start": 91795,
+        "end": 91809,
+        "title": "6.批准、接受、核准或加入",
+        "level": 2
+      },
+      {
+        "start": 92286,
+        "end": 92291,
+        "title": "7.生效",
+        "level": 2
+      },
+      {
+        "start": 92608,
+        "end": 92613,
+        "title": "8.保留",
+        "level": 2
+      },
+      {
+        "start": 92630,
+        "end": 92635,
+        "title": "9.退出",
+        "level": 2
+      },
+      {
+        "start": 92738,
+        "end": 92745,
+        "title": "10.保存人",
+        "level": 2
+      },
+      {
+        "start": 92766,
+        "end": 92774,
+        "title": "11.有效文本",
+        "level": 2
+      },
+      {
+        "start": 92906,
+        "end": 92916,
+        "title": "文书*的可能附件",
+        "level": 2
+      },
+      {
+        "start": 92918,
+        "end": 92933,
+        "title": "1.可能附件的指示性清单",
+        "level": 2
+      },
+      {
+        "start": 96328,
+        "end": 96351,
+        "title": "2.[与第二编第2条有关的拟议附件",
+        "level": 2
+      },
+      {
+        "start": 100540,
+        "end": 100558,
+        "title": "4.第二编第5条有关的拟议附件",
+        "level": 2
+      }
+    ],
+    "originalExtractedTextSha256": "efdef8dcc638a00e145d4fe8d90eac561305241bd2bf06492c4ca1e112d90bb1",
+    "editorialCorrections": [
+      {
+        "before": "Distr.: General",
+        "after": "分发：一般",
+        "reason": "文首标签",
+        "start": 70,
+        "updatedStart": 70
+      },
+      {
+        "before": "9 July 2024",
+        "after": "2024年7月9日",
+        "reason": "日期标签",
+        "start": 88,
+        "updatedStart": 78
+      },
+      {
+        "before": "Chinese",
+        "after": "中文",
+        "reason": "语种标签",
+        "start": 102,
+        "updatedStart": 90
+      },
+      {
+        "before": "Original: English",
+        "after": "原文：英文",
+        "reason": "原文语种标签",
+        "start": 111,
+        "updatedStart": 94
+      }
+    ],
+    "editorialRevision": 1,
+    "editorialNote": "中文阅读稿已校订未译词及标签；原附件保留原样，校订不记为用户修订。",
+    "sourceOriginalSha256": "c5775b1644d7171751a5c503baebca8e8e8b6321995647761992c4f45c4374ae",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-aid-to-negotiations-2026-zh-e2edd5cbf07b",
+    "name": "INC5.3 中文谈判辅助文件-1.pdf",
+    "shortTitle": "谈判辅助文件",
+    "title": "谈判辅助文件 — 2026年8月8日",
+    "meetingId": "inc-5-3",
+    "relatedMeetingIds": [],
+    "publishedDate": "2026-08-08",
+    "publishedTime": null,
+    "documentSymbol": null,
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "zh-CN",
+    "bilingualGroup": "aid-to-negotiations-2026",
+    "translationStatus": "machine",
+    "translationNote": "附件逐页标注“机器翻译版本，仅供参考，如有歧义，以英文原文为准”。此中文附件从案文本体开始，不含英文附件前置的主席说明。",
+    "textReady": true,
+    "textSha256": "7585a4a653911ee2689b6076f02277855e04c3b5045aac68893f576f17870151",
+    "sourceSha256": "2debe957974ac251ae80a01897a52292be1b08daacb6a3ee3bd5715d3f14d377",
+    "originalUrl": "documents/aid-to-negotiations-2026-zh.pdf",
+    "previewUrl": "assets/previews/aid-to-negotiations-2026-zh.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 14,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": "中文附件末尾“保存人”和“正本”两节均标为第三十条，展示保留原文；“正本”节切换定位到英文 ARTICLE 31。",
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "按用户指定归入 INC-5.3 展示。附件标题、日期及条款与 2026-08-08 英文谈判辅助文件对应；保留原附件的机器翻译说明。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "INC5.3 中文谈判辅助文件-1.pdf",
+      "documentSymbol": null
+    },
+    "outline": [
+      {
+        "start": 961,
+        "end": 967,
+        "title": "第一条宗旨",
+        "level": 2
+      },
+      {
+        "start": 1232,
+        "end": 1243,
+        "title": "第 2 条原则与方法",
+        "level": 2
+      },
+      {
+        "start": 1816,
+        "end": 1822,
+        "title": "第三条定义",
+        "level": 2
+      },
+      {
+        "start": 2027,
+        "end": 2037,
+        "title": "第 4 条塑料制品",
+        "level": 2
+      },
+      {
+        "start": 3246,
+        "end": 3256,
+        "title": "第五条塑料产品设计",
+        "level": 2
+      },
+      {
+        "start": 3868,
+        "end": 3877,
+        "title": "第六条排放和泄漏",
+        "level": 2
+      },
+      {
+        "start": 4032,
+        "end": 4046,
+        "title": "第七条塑料废弃物管理",
+        "level": 2
+      },
+      {
+        "start": 4681,
+        "end": 4700,
+        "title": "第八条现有及历史遗留的塑料污染",
+        "level": 2
+      },
+      {
+        "start": 5020,
+        "end": 5028,
+        "title": "第九条公正转型",
+        "level": 2
+      },
+      {
+        "start": 5278,
+        "end": 5292,
+        "title": "第十条财政资源和机制",
+        "level": 2
+      },
+      {
+        "start": 6518,
+        "end": 6549,
+        "title": "第 11 条能力建设、技术援助和技术转让，包括国际合作",
+        "level": 2
+      },
+      {
+        "start": 7214,
+        "end": 7226,
+        "title": "第 12 条执行与遵约",
+        "level": 2
+      },
+      {
+        "start": 7548,
+        "end": 7559,
+        "title": "第 13 条国家计划",
+        "level": 2
+      },
+      {
+        "start": 7918,
+        "end": 7925,
+        "title": "第十四条报告",
+        "level": 2
+      },
+      {
+        "start": 8197,
+        "end": 8207,
+        "title": "第十五条有效性评估",
+        "level": 2
+      },
+      {
+        "start": 8445,
+        "end": 8454,
+        "title": "第十六条信息交流",
+        "level": 2
+      },
+      {
+        "start": 8640,
+        "end": 8663,
+        "title": "第 17 条公众信息、意识、教育和研究",
+        "level": 2
+      },
+      {
+        "start": 9224,
+        "end": 9236,
+        "title": "第 18 条缔约方大会",
+        "level": 2
+      },
+      {
+        "start": 10171,
+        "end": 10182,
+        "title": "第 19 条附属机构",
+        "level": 2
+      },
+      {
+        "start": 10267,
+        "end": 10275,
+        "title": "第二十条秘书处",
+        "level": 2
+      },
+      {
+        "start": 10513,
+        "end": 10523,
+        "title": "第二十一条争端解决",
+        "level": 2
+      },
+      {
+        "start": 11200,
+        "end": 11213,
+        "title": "第 22 条本公约的修正",
+        "level": 2
+      },
+      {
+        "start": 11700,
+        "end": 11718,
+        "title": "第 23 条附件的通过和修订",
+        "level": 2
+      },
+      {
+        "start": 12394,
+        "end": 12404,
+        "title": "第 24 条表决权",
+        "level": 2
+      },
+      {
+        "start": 12555,
+        "end": 12564,
+        "title": "第 25 条签署",
+        "level": 2
+      },
+      {
+        "start": 12640,
+        "end": 12660,
+        "title": "第二十六条批准、接受、核准或加入",
+        "level": 2
+      },
+      {
+        "start": 13107,
+        "end": 13116,
+        "title": "第 27 条生效",
+        "level": 2
+      },
+      {
+        "start": 13428,
+        "end": 13437,
+        "title": "第 28 条保留",
+        "level": 2
+      },
+      {
+        "start": 13467,
+        "end": 13476,
+        "title": "第 29 条退出",
+        "level": 2
+      },
+      {
+        "start": 13589,
+        "end": 13597,
+        "title": "第三十条保存人",
+        "level": 2
+      },
+      {
+        "start": 13630,
+        "end": 13637,
+        "title": "第三十条正本",
+        "level": 2,
+        "parallelKey": "article:31"
+      }
+    ],
+    "sourceOriginalSha256": "e2edd5cbf07bd736a7137a12e240a0146ce163b6c3a09e48df400600d1b04de8",
+    "privacySanitized": true
+  },
+  {
+    "id": "src-inc52-chair-zh-7e874613175d",
+    "name": "0815 主席修订版案文（中文）.pdf",
+    "shortTitle": "主席修订案文",
+    "title": "主席修订文本提案 — 2025年8月15日 00:48（中文）",
+    "meetingId": "inc-5-2",
+    "relatedMeetingIds": [],
+    "publishedDate": "2025-08-15",
+    "publishedTime": "00:48",
+    "documentSymbol": null,
+    "demo": false,
+    "bundledSource": true,
+    "catalogRevision": 8,
+    "language": "zh-CN",
+    "bilingualGroup": "inc52-chair",
+    "translationStatus": null,
+    "translationNote": null,
+    "textReady": true,
+    "textSha256": "c80778c12302c772a0a5544e9ad6cb2041100d86d4c5add3cdbc3a81273a18dc",
+    "sourceSha256": "db2adb226e5047ac9523b90d546b6baf8da2df994564b5ba1a9636f5ab3f36b7",
+    "originalUrl": "documents/inc52-chair-zh.pdf",
+    "previewUrl": "assets/previews/inc52-chair-zh.jpg",
+    "previewWidth": 1132,
+    "previewHeight": 1600,
+    "pageCount": 14,
+    "fileType": "PDF",
+    "collection": "sessions",
+    "previewRenderKey": null,
+    "previewNote": null,
+    "alignmentNote": null,
+    "activityLabel": null,
+    "sourceInformationUrl": null,
+    "classificationNote": "附件首页载明主席修订文本提案、2025年8月15日00:48，与现有同日期同时间英文主席修订案文对应，归入 INC-5.2。",
+    "extractionNote": "PDF 内嵌文本逐页提取，保留页面顺序；未做 OCR。",
+    "source": {
+      "type": "provided-original",
+      "label": "0815 主席修订版案文（中文）.pdf",
+      "documentSymbol": null
+    },
+    "outline": [
+      {
+        "start": 1072,
+        "end": 1078,
+        "title": "第一条目的",
+        "level": 2
+      },
+      {
+        "start": 1127,
+        "end": 1136,
+        "title": "第二条原则和方法",
+        "level": 2
+      },
+      {
+        "start": 1688,
+        "end": 1694,
+        "title": "第三条定义",
+        "level": 2
+      },
+      {
+        "start": 1859,
+        "end": 1867,
+        "title": "第四条塑料制品",
+        "level": 2
+      },
+      {
+        "start": 2887,
+        "end": 2897,
+        "title": "第五条塑料产品设计",
+        "level": 2
+      },
+      {
+        "start": 3426,
+        "end": 3435,
+        "title": "第六条释放和泄漏",
+        "level": 2
+      },
+      {
+        "start": 3561,
+        "end": 3571,
+        "title": "第七条塑料废物管理",
+        "level": 2
+      },
+      {
+        "start": 4082,
+        "end": 4095,
+        "title": "第八条现有和历史塑料污染",
+        "level": 2
+      },
+      {
+        "start": 4338,
+        "end": 4346,
+        "title": "第九条公正转型",
+        "level": 2
+      },
+      {
+        "start": 4560,
+        "end": 4571,
+        "title": "第十条财务资源与机制",
+        "level": 2
+      },
+      {
+        "start": 5643,
+        "end": 5669,
+        "title": "第十一条能力建设、技术援助和技术转让，包括国际合作",
+        "level": 2
+      },
+      {
+        "start": 6244,
+        "end": 6254,
+        "title": "第十二条实施与遵守",
+        "level": 2
+      },
+      {
+        "start": 6546,
+        "end": 6555,
+        "title": "第13条国家计划",
+        "level": 2
+      },
+      {
+        "start": 6878,
+        "end": 6885,
+        "title": "第14条报告",
+        "level": 2
+      },
+      {
+        "start": 7106,
+        "end": 7116,
+        "title": "第15条有效性评估",
+        "level": 2
+      },
+      {
+        "start": 7502,
+        "end": 7511,
+        "title": "第16条信息交流",
+        "level": 2
+      },
+      {
+        "start": 7675,
+        "end": 7695,
+        "title": "第17条公共信息、意识提升、教育与研究",
+        "level": 2
+      },
+      {
+        "start": 8110,
+        "end": 8120,
+        "title": "第18条缔约方会议",
+        "level": 2
+      },
+      {
+        "start": 8900,
+        "end": 8909,
+        "title": "第19条附属机构",
+        "level": 2
+      },
+      {
+        "start": 8997,
+        "end": 9005,
+        "title": "第二十条秘书处",
+        "level": 2
+      },
+      {
+        "start": 9297,
+        "end": 9307,
+        "title": "第二十一条争端解决",
+        "level": 2
+      },
+      {
+        "start": 9844,
+        "end": 9855,
+        "title": "第二十二条公约的修正",
+        "level": 2
+      },
+      {
+        "start": 10251,
+        "end": 10265,
+        "title": "第二十三条附件的通过与修正",
+        "level": 2
+      },
+      {
+        "start": 10819,
+        "end": 10828,
+        "title": "第二十四条表决权",
+        "level": 2
+      },
+      {
+        "start": 10959,
+        "end": 10968,
+        "title": "第二十五条签署",
+        "level": 2
+      },
+      {
+        "start": 11031,
+        "end": 11048,
+        "title": "第二十六条批准、接受、核准或加入",
+        "level": 2
+      },
+      {
+        "start": 11453,
+        "end": 11461,
+        "title": "第二十七条生效",
+        "level": 2
+      },
+      {
+        "start": 11667,
+        "end": 11675,
+        "title": "第二十八条保留",
+        "level": 2
+      },
+      {
+        "start": 11689,
+        "end": 11697,
+        "title": "第二十九条退出",
+        "level": 2
+      },
+      {
+        "start": 11792,
+        "end": 11800,
+        "title": "第三十条存放国",
+        "level": 2
+      },
+      {
+        "start": 11818,
+        "end": 11828,
+        "title": "第三十一条真实文本",
+        "level": 2
+      },
+      {
+        "start": 11919,
+        "end": 11937,
+        "title": "[附件A：塑料制品及含塑料制品清单]",
+        "level": 1
+      }
+    ],
+    "originalExtractedTextSha256": "d1574e74660081e3311946f5ab2f359cf987bff771352439c229a9d7b0f22db3",
+    "editorialCorrections": [
+      {
+        "before": "informal",
+        "after": "非正规",
+        "reason": "未译术语",
+        "start": 721,
+        "updatedStart": 721
+      },
+      {
+        "before": "cooperative",
+        "after": "合作社",
+        "reason": "未译术语",
+        "start": 732,
+        "updatedStart": 727
+      },
+      {
+        "before": "small and medium-sized enterprises",
+        "after": "中小企业",
+        "reason": "未译术语",
+        "start": 749,
+        "updatedStart": 736
+      },
+      {
+        "before": "waste pickers",
+        "after": "拾荒者",
+        "reason": "未译术语",
+        "start": 792,
+        "updatedStart": 749
+      },
+      {
+        "before": "th",
+        "after": "",
+        "reason": "未译序数后缀",
+        "start": 11649,
+        "updatedStart": 11596
+      },
+      {
+        "before": "th",
+        "after": "",
+        "reason": "未译序数后缀",
+        "start": 11657,
+        "updatedStart": 11602
+      }
+    ],
+    "editorialRevision": 1,
+    "editorialNote": "中文阅读稿已校订未译词及标签；原附件保留原样，校订不记为用户修订。",
+    "sourceOriginalSha256": "7e874613175d957419f77b2df03d9f36359033f2616469cf304f94d6731a8d15",
+    "privacySanitized": true
+  }
+]

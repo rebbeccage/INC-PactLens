@@ -1,2 +1,39 @@
-# INC-PactLens
-INC Lens compares plastic treaty text versions side by side. Search bilingual topics, jump to matching provisions, review additions, deletions, and wording changes, edit a draft, and export clean or tracked-change Word files.
+# INC Lens
+
+塑料公约案文对照与修订工具。纯静态网页，无需后端、数据库或 API 密钥。
+
+## 功能
+
+- 按 INC 会议浏览11份案文，支持中英文检索、语言切换和条款定位。
+- 对照模式按“删除、新增、表述替换”查看差异及原文证据。
+- 修订模式编辑左稿；清理预览仅显示最终正文。
+- Word 可导出保留原生修订的修订版，或不含修订标记的清理版。
+- “上传文件”支持 TXT / MD；研究稿保存在当前浏览器。
+
+## 上传到 GitHub
+
+建议先创建 **Private** 仓库，再把本文件夹内的全部内容上传到仓库根目录，包含隐藏的 `.github` 目录。上传后仅运行检查，不会通过本工作流自动发布网页。
+
+逐步操作见 [上传与部署说明](DEPLOYMENT.md)。暂时只保存代码时，无需开启 GitHub Pages，也无需填写任何密钥。
+
+## 本地预览
+
+在本文件夹打开终端，执行：
+
+```sh
+python3 -m http.server 8080 --bind 127.0.0.1
+```
+
+浏览器打开 <http://localhost:8080/>。
+
+## 数据与隐私
+
+研究稿和用户上传的文本不随此发布包上传。导出 Word 在浏览器内完成；清除浏览器数据或更换域名前，请先导出稿件。
+
+本发布包不含本机路径、凭据、浏览器记录或 Git 历史。预置附件的发布副本已清除个人编辑信息及本地路径等隐藏元数据，正文保持不变。启用网页发布后，站点会提供这些预置案文和附件；仓库私有不代表网页私有。
+
+## 开发与许可
+
+Node.js 22+ 可运行 `npm run check`、`npm test`、`npm run build`，构建结果位于 `_site/`。
+
+案文说明见 [文件目录](docs/SOURCE_DOCUMENTS.md)，功能说明见 [研究功能](docs/RESEARCH_FEATURES.md)。第三方组件遵循 [各自许可](THIRD_PARTY_NOTICES.md)；本项目不对案文材料另行授予许可。
