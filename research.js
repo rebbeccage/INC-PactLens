@@ -14,7 +14,7 @@ function topicForTitle(title){const key=titleKey(title);return topics.find(t=>[t
 function structure(doc,text=doc.text){
  const key=doc.id+':'+hash(text);if(indexCache.has(key))return indexCache.get(key);
  const outline=C.build(text,doc),main=outline.filter(h=>/^\[?(?:ARTICLE\s+\d+|第\d+条)/i.test(h.title)||h.level===2&&!/^\[?(?:ARTICLE|第.+条)/i.test(h.context||''));
- const entries=main.map((h,i)=>({...h,articleId:doc.id+':'+h.id,rangeEnd:main[i+1]?.start??text.length,number:(h.title.match(/ARTICLE\s+(\d+)|第(\d+)条/i)||[]).slice(1).find(Boolean)||null,topicId:topicForTitle(h.title)?.topicId||null}));
+ const entries=main.map((h,i)=>({...h,articleId:doc.id+':'+h.id,rangeEnd:main[i+1]?.start??text.length,number:(h.title.match(/ARTICLE\s+(\d+)|第(\d+)条/i)||[]).slice(1).find(Boolean)||null,topicId:[h.title,...h.aliases||[]].map(topicForTitle).find(Boolean)?.topicId||null}));
  // Retain unstructured imports as a searchable, explicitly unnumbered section.
  if(!entries.length)entries.push({articleId:doc.id+':text',id:'text',title:'全文',start:0,end:0,rangeEnd:text.length,level:2,number:null});
  const result={document:doc,text,entries,searchRows:entries.map(a=>({article:a,normalized:normalize(text.slice(a.start,a.rangeEnd),true).text.toLowerCase()}))};
@@ -44,6 +44,9 @@ function matchArticle(source,target,article,manual={},options={}){
  if(Array.isArray(saved)){if(!saved.length)return {status:'missing',items:[],reason:'用户确认无对应条款'};const items=entries.filter(x=>saved.includes(x.articleId));if(items.length===saved.length)return {status:'confirmed',items,reason:'用户确认的对应关系'};}
  let candidates=entries.filter(x=>titleKey(x.title)===titleKey(article.title)&&titleKey(article.title));
  if(candidates.length===1)return {status:'confirmed',items:candidates,reason:'条款标题一致；非单凭编号匹配'};
+ const sourceTitles=new Set([article.title,...article.aliases||[]].map(titleKey).filter(Boolean));
+ candidates=entries.filter(x=>[x.title,...x.aliases||[]].some(t=>sourceTitles.has(titleKey(t))));
+ if(candidates.length===1)return {status:'confirmed',items:candidates,reason:'条款标题或备选标题一致'};
  const isScope=a=>/^(?:placeholder)?scope$|^(?:适用)?范围(?:占位符|占位说明)?$/.test(titleKey(a.title));
  if(isScope(article)&&['inc52-chair','aid-to-negotiations-2026'].includes(target.bilingualGroup)&&(options.targetText??target.text)===target.text&&!entries.some(isScope))return {status:'missing',items:[],reason:'该版本无 Scope 条款'};
  // Reviewed topic links: the 2025 Chair and 2026 Aid share this article's title and subject.

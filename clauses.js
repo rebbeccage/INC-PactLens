@@ -29,6 +29,8 @@ const chineseArticleOnly=s=>new RegExp('^\\[?第\\s*'+ordinalNumber+'\\s*条(?:\
 const chineseTitle=s=>s.length<120&&/[\p{Script=Han}]/u.test(s)&&!/[。；：;:]$/.test(s)&&!/^(?:\d+[.．]|机器翻译|第.+条)/.test(s);
 const titleLine=s=>s.length<240&&/[A-Z]/.test(s)&&s===s.toUpperCase()&&!/[.;]$/.test(s);
 function lines(text){const out=[];let start=0;for(const raw of text.split('\n')){const value=raw.trim();out.push({start:start+raw.indexOf(value),end:start+raw.trimEnd().length,value});start+=raw.length+1;}return out;}
+const alternativePrefix=/^\s*(?:#{1,6}\s+)?[\[【(（]*\s*(?:(?:Alt(?:ernative)?\.?\s*(?:title|heading))|(?:(?:备选|替代|另选)(?:标题|题名)))\s*(?:\d+|[一二三四五六七八九十]+)?\s*[:：]\s*/i;
+const isAlternativeTitle=value=>alternativePrefix.test(value.normalize('NFKC'));
 function build(text,source={}){
  const items=[],rows=lines(text),original=source.text||'';
  // Heading ranges come from source styles/typography, never from the document's TOC.
@@ -66,15 +68,34 @@ function build(text,source={}){
  const unique=[];
  for(let i=0;i<items.length;i++){
   const item={...items[i]};
+  delete item.aliases;delete item.alternativeTitles;
+  // A proposed title belongs to its preceding provision, never a separate section.
+  if(isAlternativeTitle(item.title))continue;
   if(unique.at(-1)?.end>item.start)continue;
   const next=items.slice(i+1).find(n=>n.start>=item.end);
   if(articleOnly(item.title)&&next&&titleLine(next.title)&&!text.slice(item.end,next.start).trim()){item.end=next.end;item.title=label(item.title)+' · '+label(next.title);}
   if(chineseArticleOnly(item.title)&&next&&chineseTitle(next.title)&&!text.slice(item.end,next.start).trim()){item.end=next.end;item.title=label(item.title)+' '+label(next.title);}
   unique.push(item);
  }
+ for(let i=0;i<rows.length;i++){
+  const row=rows[i];if(!isAlternativeTitle(row.value)||/\.{3}|\t\d+\s*$/.test(text.slice(row.start,row.end)))continue;
+  const owner=unique.findLast(h=>h.start<row.start);if(!owner||owner.level===1)continue;
+  const next=unique.find(h=>h.start>row.start),styled=items.find(h=>h.start<=row.start&&h.end>row.start&&isAlternativeTitle(h.title));
+  let end=row.end;
+  for(let j=i+1;j<rows.length;j++){
+   const line=rows[j];
+   if(line.start>=(next?.start??text.length)||isAlternativeTitle(line.value)||!line.value||/^(?:(?:Sub[- ]?)?Option\b|OP\s*\d|No text\b|案文方案|次级案文方案|无案文|\[?\d+[.)、．]|\([a-z\d]+\))/i.test(line.value))break;
+   if(styled?line.start>=styled.end:false)break;
+   end=line.end;
+  }
+  const title=label(text.slice(row.start,end)),alias=title.replace(alternativePrefix,'').trim();
+  if(!alias)continue;
+  (owner.alternativeTitles??=[]).push({start:row.start,end,title});
+  if(!(owner.aliases??=[]).includes(alias))owner.aliases.push(alias);
+ }
  let part='',clause='';
  return unique.map(item=>{const sourceTitle=item.title;item.title=formatTitle(sourceTitle);if(item.level===1){part=item.title;clause='';}const context=item.level>2?[part,clause].filter(Boolean).join(' / '):part;if(item.level===2)clause=item.title;return {...item,sourceTitle,id:'clause-'+item.start+'-'+item.end,context:context===item.title?'':context};});
 }
-function filter(items,query){const words=normalize(query).split(' ').filter(Boolean);return items.filter(item=>words.every(word=>normalize(item.title+' '+item.context).includes(word)));}
-const api={build,filter,normalize,formatTitle,numberValue};if(typeof module!=='undefined')module.exports=api;root.ClauseNavigation=api;
+function filter(items,query){const words=normalize(query).split(' ').filter(Boolean);return items.filter(item=>words.every(word=>normalize([item.title,item.context,...item.aliases||[]].join(' ')).includes(word)));}
+const api={build,filter,normalize,formatTitle,numberValue,isAlternativeTitle};if(typeof module!=='undefined')module.exports=api;root.ClauseNavigation=api;
 })(typeof window==='undefined'?globalThis:window);

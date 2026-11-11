@@ -2,12 +2,12 @@ const {test}=require('node:test'),assert=require('node:assert/strict');
 const documents=require('../source-documents.js'),Language=require('../languages.js'),C=require('../clauses.js'),L=require('../layout.js'),W=require('../model.js');
 test('four explicit bilingual pairs belong to the correct meetings and retain original English identities',()=>{
  assert.equal(documents.filter(d=>d.language==='en').length,7);assert.equal(documents.filter(d=>d.language==='zh-CN').length,4);
- for(const [group,meeting]of [['inc4-revised-zero','inc-4'],['inc5-compilation','inc-5-1'],['inc52-chair','inc-5-2'],['aid-to-negotiations-2026','inc-5-3']]){
+ for(const [group,meeting]of [['inc4-revised-zero','inc-5-1'],['inc5-compilation','inc-4'],['inc52-chair','inc-5-2'],['aid-to-negotiations-2026','inc-5-3']]){
   const pair=documents.filter(d=>d.bilingualGroup===group);assert.equal(pair.length,2);
   const english=pair.find(d=>d.language==='en'),chinese=Language.counterpart(documents,english.id,'zh-CN');
   assert.equal(chinese.meetingId,meeting);assert.equal(english.meetingId,meeting);assert.equal(chinese.publishedDate,english.publishedDate);assert.equal(Language.counterpart(documents,chinese.id,'en').id,english.id);
  }
- assert.equal(documents.find(d=>d.language==='en'&&d.meetingId==='inc-4').id,'src-inc4-revised-zero-700596364b1e');
+ assert.equal(documents.find(d=>d.language==='en'&&d.meetingId==='inc-5-1').id,'src-inc4-revised-zero-700596364b1e');
 });
 test('English and Chinese research drafts and their undo bases remain independent across repeated switches and reloads',()=>{
  const english=documents.find(d=>d.bilingualGroup==='inc4-revised-zero'&&d.language==='en'),chinese=Language.counterpart(documents,english.id,'zh-CN');

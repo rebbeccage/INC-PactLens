@@ -19,7 +19,7 @@ test('every document directory and its context have canonical number formatting 
   assert.ok(!/\[(?:Footnote|Endnote)\s+\d+\]/.test(h.title),h.title);
   assert.ok(h.start>=0&&h.end>h.start&&h.end<=d.text.length);assert.ok(d.text.slice(h.start,h.end).trim());
  }}
- assert.ok(checked>550);
+ assert.ok(checked>500,'all full document directories remain covered after grouping alternative headings');
  const d=documents.find(d=>d.id.startsWith('src-inc52-chair-zh')),items=C.build(d.text,d);
  assert.deepEqual(C.filter(items,'第八条').map(h=>h.id),C.filter(items,'第8条').map(h=>h.id));
  assert.equal(C.filter(items,'第捌条')[0].title,'第8条 · 现有和历史塑料污染');
